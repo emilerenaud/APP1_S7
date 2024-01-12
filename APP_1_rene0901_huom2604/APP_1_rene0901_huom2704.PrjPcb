@@ -79,7 +79,7 @@ Value=1.00
 
 [Parameter4]
 Name=Project_Name
-Value=APP_1_rene0901_huom2604
+Value=APP_1_rene0901_huom2704
 
 [Parameter5]
 Name=Project_Group
@@ -90,11 +90,11 @@ Name=Project_Global
 Value=Conception PCB 1
 
 [Parameter7]
-Name=Project_Designer4 
+Name=Project_Designer4
 Value=
 
 [Parameter8]
-Name=Project_Designer3 
+Name=Project_Designer3
 Value=
 
 [Parameter9]
