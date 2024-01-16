@@ -151,48 +151,48 @@ GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAL
 
 [Parameter1]
-Name=Project_Stencil_Top_Thickness
-Value=
+Name=Project_Date
+Value=2024-01-12
 
 [Parameter2]
-Name=Project_Stencil_Bot_Thickness
-Value=
+Name=Project_Designer1
+Value=Mathieu Huot
 
 [Parameter3]
-Name=Project_Revision
-Value=1.00
+Name=Project_Designer2
+Value=
 
 [Parameter4]
-Name=Project_Name
-Value=APP_1_huom2704
+Name=Project_Designer3
+Value=
 
 [Parameter5]
-Name=Project_Group
-Value=N/A
+Name=Project_Designer4
+Value=
 
 [Parameter6]
 Name=Project_Global
 Value=Conception PCB 1
 
 [Parameter7]
-Name=Project_Designer4
-Value=
+Name=Project_Group
+Value=N/A
 
 [Parameter8]
-Name=Project_Designer3
-Value=
+Name=Project_Name
+Value=APP_1_huom2704
 
 [Parameter9]
-Name=Project_Designer2
-Value=
+Name=Project_Revision
+Value=1.00
 
 [Parameter10]
-Name=Project_Designer1
-Value=Mathieu Huot
+Name=Project_Stencil_Bot_Thickness
+Value=
 
 [Parameter11]
-Name=Project_Date
-Value=2024-01-12
+Name=Project_Stencil_Top_Thickness
+Value=
 
 [Configuration1]
 Name=Sources
@@ -782,36 +782,6 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=Ansoft Neutral
-OutputName13=Ansoft Neutral (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=HyperLynx
-OutputName14=HyperLynx (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=Orcad v7 Capture Design
-OutputName15=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD ASCII
-OutputName16=P-CAD ASCII (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=P-CAD V16 Schematic Design
-OutputName17=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=SiSoft
-OutputName18=SiSoft (AutoPCB)
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
