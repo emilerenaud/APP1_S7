@@ -1,5 +1,7 @@
 Record=TopLevelDocument|FileName=APP_1_Connectors_m.SchDoc|SheetNumber=3
 Record=NoMainPathDocument|SourceDocument=APP_1_Connectors_m.SchDoc|FileName=APP_1_DDR3_m.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=APP_1_Connectors_m.SchDoc|FileName=APP_1_DriveMoteur_m.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=APP_1_Connectors_m.SchDoc|FileName=APP_1_Flash_m.SchDoc|SheetNumber=7
 Record=NoMainPathDocument|SourceDocument=APP_1_Connectors_m.SchDoc|FileName=APP_1_FPGA_m.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=APP_1_Connectors_m.SchDoc|FileName=APP_1_Overview.SchDoc|SheetNumber=2
 Record=NoMainPathDocument|SourceDocument=APP_1_Connectors_m.SchDoc|FileName=APP_1_PLL_m.SchDoc|SheetNumber=6

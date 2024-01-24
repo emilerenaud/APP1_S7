@@ -1,4 +1,5 @@
 Record=TopLevelDocument|FileName=APP_1_Connectors_e.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=APP_1_Connectors_e.SchDoc|FileName=APP_1_DAC.SchDoc|SheetNumber=9
 Record=NoMainPathDocument|SourceDocument=APP_1_Connectors_e.SchDoc|FileName=APP_1_DDR3_e.SchDoc|SheetNumber=5
 Record=NoMainPathDocument|SourceDocument=APP_1_Connectors_e.SchDoc|FileName=APP_1_FPGA_e.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=APP_1_Connectors_e.SchDoc|FileName=APP_1_Overview.SchDoc|SheetNumber=2
