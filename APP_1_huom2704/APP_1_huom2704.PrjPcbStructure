@@ -5,6 +5,7 @@ Record=NoMainPathDocument|SourceDocument=APP_1_ADC_m.SchDoc|FileName=APP_1_DDR3_
 Record=NoMainPathDocument|SourceDocument=APP_1_ADC_m.SchDoc|FileName=APP_1_DriveMoteur_m.SchDoc|SheetNumber=8
 Record=NoMainPathDocument|SourceDocument=APP_1_ADC_m.SchDoc|FileName=APP_1_Flash_m.SchDoc|SheetNumber=7
 Record=NoMainPathDocument|SourceDocument=APP_1_ADC_m.SchDoc|FileName=APP_1_FPGA_m.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=APP_1_ADC_m.SchDoc|FileName=APP_1_JTAG_m.SchDoc|SheetNumber=11
 Record=NoMainPathDocument|SourceDocument=APP_1_ADC_m.SchDoc|FileName=APP_1_Overview.SchDoc|SheetNumber=2
 Record=NoMainPathDocument|SourceDocument=APP_1_ADC_m.SchDoc|FileName=APP_1_PLL_m.SchDoc|SheetNumber=6
 Record=NoMainPathDocument|SourceDocument=APP_1_ADC_m.SchDoc|FileName=APP_1_Title.SchDoc|SheetNumber=1
