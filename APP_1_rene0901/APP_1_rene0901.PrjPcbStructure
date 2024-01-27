@@ -2,6 +2,7 @@ Record=TopLevelDocument|FileName=APP_1_ADC.SchDoc|SheetNumber=11
 Record=NoMainPathDocument|SourceDocument=APP_1_ADC.SchDoc|FileName=APP_1_Connectors_e.SchDoc|SheetNumber=3
 Record=NoMainPathDocument|SourceDocument=APP_1_ADC.SchDoc|FileName=APP_1_DAC.SchDoc|SheetNumber=9
 Record=NoMainPathDocument|SourceDocument=APP_1_ADC.SchDoc|FileName=APP_1_DDR3_e.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=APP_1_ADC.SchDoc|FileName=APP_1_Ethernet.SchDoc|SheetNumber=12
 Record=NoMainPathDocument|SourceDocument=APP_1_ADC.SchDoc|FileName=APP_1_FlashSPI.SchDoc|SheetNumber=10
 Record=NoMainPathDocument|SourceDocument=APP_1_ADC.SchDoc|FileName=APP_1_FPGA_e.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=APP_1_ADC.SchDoc|FileName=APP_1_Overview.SchDoc|SheetNumber=2
