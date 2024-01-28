@@ -7,6 +7,7 @@ Record=NoMainPathDocument|SourceDocument=APP_1_ADC.SchDoc|FileName=APP_1_FlashSP
 Record=NoMainPathDocument|SourceDocument=APP_1_ADC.SchDoc|FileName=APP_1_FPGA_e.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=APP_1_ADC.SchDoc|FileName=APP_1_Overview.SchDoc|SheetNumber=2
 Record=NoMainPathDocument|SourceDocument=APP_1_ADC.SchDoc|FileName=APP_1_PLL.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=APP_1_ADC.SchDoc|FileName=APP_1_Power.SchDoc|SheetNumber=13
 Record=NoMainPathDocument|SourceDocument=APP_1_ADC.SchDoc|FileName=APP_1_Prog.SchDoc|SheetNumber=7
 Record=NoMainPathDocument|SourceDocument=APP_1_ADC.SchDoc|FileName=APP_1_Stepper.SchDoc|SheetNumber=8
 Record=NoMainPathDocument|SourceDocument=APP_1_ADC.SchDoc|FileName=APP_1_Title.SchDoc|SheetNumber=1
