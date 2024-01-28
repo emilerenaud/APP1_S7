@@ -117,6 +117,23 @@ GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAJ
 
 [Document5]
+DocumentPath=APP_1_Ethernet_m.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YZWMLBAP
+
+[Document6]
 DocumentPath=APP_1_FPGA_m.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,7 +150,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAK
 
-[Document6]
+[Document7]
 DocumentPath=APP_1_DDR3_m.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,7 +167,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAL
 
-[Document7]
+[Document8]
 DocumentPath=APP_1_PLL_m.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -167,7 +184,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAG
 
-[Document8]
+[Document9]
 DocumentPath=APP_1_Flash_m.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -184,7 +201,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAH
 
-[Document9]
+[Document10]
 DocumentPath=APP_1_DriveMoteur_m.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -201,7 +218,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAI
 
-[Document10]
+[Document11]
 DocumentPath=APP_1_DAC_m.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -218,7 +235,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAM
 
-[Document11]
+[Document12]
 DocumentPath=APP_1_ADC_m.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,7 +252,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAN
 
-[Document12]
+[Document13]
 DocumentPath=APP_1_Schlib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -252,7 +269,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IUPPYVKK
 
-[Document13]
+[Document14]
 DocumentPath=APP_1_JTAG_m.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
