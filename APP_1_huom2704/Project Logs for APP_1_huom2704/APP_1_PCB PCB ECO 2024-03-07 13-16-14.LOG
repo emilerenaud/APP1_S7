@@ -1,0 +1,26 @@
+Add Component: Footprint Not Found ADST-MA1-8_L
+Added Pin To Net: NetName=DAC_OUT_1 Pin=R77-1
+Added Pin To Net: NetName=DAC_OUT_2 Pin=R84-1
+Add Pin To Net: Unknown Pin: Pin U12-1
+Add Pin To Net: Unknown Pin: Pin U12-2
+Add Pin To Net: Unknown Pin: Pin U12-3
+Add Pin To Net: Unknown Pin: Pin U12-4
+Add Pin To Net: Unknown Pin: Pin U12-5
+Add Pin To Net: Unknown Pin: Pin U12-6
+Add Pin To Net: Unknown Pin: Pin U12-7
+Add Pin To Net: Unknown Pin: Pin U12-8
+Add Differential Pair: Number of nets in differential pair NetD8_3 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetD8_5 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair RX_M is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair RX is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair TX_M is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair TX is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair USB_DD_M is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair USB_DD is 1 instead of 2
+Added Member To Class: ClassName=APP_1_DAC_m Member=Component R75 RES - 0603
+Added Member To Class: ClassName=APP_1_DAC_m Member=Component R77 RES - 0603
+Added Member To Class: ClassName=APP_1_DAC_m Member=Component R79 RES - 0603
+Added Member To Class: ClassName=APP_1_DAC_m Member=Component R82 RES - 0603
+Added Member To Class: ClassName=APP_1_DAC_m Member=Component R84 RES - 0603
+Added Member To Class: ClassName=APP_1_DAC_m Member=Component R86 RES - 0603
+Add Class Member: Failed to add class member : Component U12 AT25DF321A-MH-T
