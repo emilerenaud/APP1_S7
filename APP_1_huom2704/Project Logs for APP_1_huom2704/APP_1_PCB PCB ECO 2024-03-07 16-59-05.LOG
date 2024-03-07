@@ -1,0 +1,18 @@
+Add Component: Footprint Not Found ADST-MA1-8_L
+Add Pin To Net: Unknown Pin: Pin U12-1
+Add Pin To Net: Unknown Pin: Pin U12-2
+Add Pin To Net: Unknown Pin: Pin U12-3
+Add Pin To Net: Unknown Pin: Pin U12-4
+Add Pin To Net: Unknown Pin: Pin U12-5
+Add Pin To Net: Unknown Pin: Pin U12-6
+Add Pin To Net: Unknown Pin: Pin U12-7
+Add Pin To Net: Unknown Pin: Pin U12-8
+Add Differential Pair: Number of nets in differential pair NetD8_3 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetD8_5 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair RX_M is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair RX is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair TX_M is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair TX is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair USB_DD_M is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair USB_DD is 1 instead of 2
+Add Class Member: Failed to add class member : Component U12 AT25DF321A-MH-T
