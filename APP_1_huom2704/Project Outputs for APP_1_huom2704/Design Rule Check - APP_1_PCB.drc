@@ -1,18 +1,28 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Mathuot\OneDrive - USherbrooke\PMC\Github\APP1_S7\APP_1_huom2704\APP_1_PCB.PcbDoc
 Date     : 2024-03-11
-Time     : 16:11:09
+Time     : 16:50:09
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
 Rule Violations :0
 
-Processing Rule : Matched Lengths(Tolerance=10mil) (Disabled)(InNetClass('DDR3_DQ[0..16]'))
+Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('DDR3_DQ[0..16]'))
+   Violation between Matched Net Lengths: Between Net DDR3_DQ0 And Net DDR3_DQ15 Length:1101.918mil is not within 10mil tolerance of Length:1451.438mil (339.52mil short) 
+   Violation between Matched Net Lengths: Between Net DDR3_DQ1 And Net DDR3_DQ15 Length:1121.121mil is not within 10mil tolerance of Length:1451.438mil (320.317mil short) 
+   Violation between Matched Net Lengths: Between Net DDR3_DQ15 And Net DDR3_DQ2 Length:1038.926mil is not within 10mil tolerance of Length:1451.438mil (402.512mil short) 
+   Violation between Matched Net Lengths: Between Net DDR3_DQ15 And Net DDR3_DQ3 Length:1188.532mil is not within 10mil tolerance of Length:1451.438mil (252.906mil short) 
+   Violation between Matched Net Lengths: Between Net DDR3_DQ15 And Net DDR3_DQ4 Length:1164.91mil is not within 10mil tolerance of Length:1451.438mil (276.528mil short) 
+   Violation between Matched Net Lengths: Between Net DDR3_DQ15 And Net DDR3_DQ5 Length:1231.807mil is not within 10mil tolerance of Length:1451.438mil (209.631mil short) 
+   Violation between Matched Net Lengths: Between Net DDR3_DQ15 And Net DDR3_DQ6 Length:1261.279mil is not within 10mil tolerance of Length:1451.438mil (180.16mil short) 
+   Violation between Matched Net Lengths: Between Net DDR3_DQ15 And Net DDR3_DQ7 Length:1160.49mil is not within 10mil tolerance of Length:1451.438mil (280.949mil short) 
+   Violation between Matched Net Lengths: Between Net DDR3_DQ15 And Net DDR3_DQ8 Length:1180.658mil is not within 10mil tolerance of Length:1451.438mil (260.78mil short) 
+   Violation between Matched Net Lengths: Between Net DDR3_DQ15 And Net DDR3_DQ9 Length:1046.8mil is not within 10mil tolerance of Length:1451.438mil (394.638mil short) 
+Rule Violations :10
+
+Processing Rule : Matched Lengths(Tolerance=10mil) (Disabled)(InNetClass('DDR3_A[0..13]'))
 Rule Violations :0
 
-Processing Rule : Matched Lengths(Tolerance=10mil) (Disabled)((InNetClass('DDR3_A[0..13]') OR InNetClass('DDR3_BA[0..2]') OR InDifferentialPair('DDR3_CK') OR DDR3_CKE OR DDR3_UDM OR DDR3_LDM OR DDR3_ODT))
-Rule Violations :0
 
-
-Violations Detected : 0
+Violations Detected : 10
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:00

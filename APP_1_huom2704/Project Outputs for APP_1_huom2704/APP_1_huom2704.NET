@@ -1,0 +1,2782 @@
+Wire List
+
+<<< Component List >>>
+CAP - 0805                      C1             CAP_0805
+CAP - 0805                      C2             CAP_0805
+CAP - 1206                      C3             CAP_1206
+CAP - 0603                      C4             CAP_0603
+MAL214699501E3                  C5             CAP_ALU_1010_vishay
+CAP - 1206                      C6             CAP_1206
+CAP - 1206                      C7             CAP_1206
+CAP - 1206                      C8             CAP_1206
+CAP - 1206                      C9             CAP_1206
+CAP - 1206                      C10            CAP_1206
+CAP - 1206                      C11            CAP_1206
+CAP - 1206                      C12            CAP_1206
+CAP - 1206                      C13            CAP_1206
+CAP - 1206                      C14            CAP_1206
+CAP - 1206                      C15            CAP_1206
+CAP - 0603                      C16            CAP_0603
+CAP - 0603                      C17            CAP_0603
+CAP - 0603                      C18            CAP_0603
+CAP - 0603                      C19            CAP_0603
+CAP - 0603                      C20            CAP_0603
+CAP - 0603                      C21            CAP_0603
+CAP - 0603                      C22            CAP_0603
+CAP - 0603                      C23            CAP_0603
+CAP - 0603                      C24            CAP_0603
+CAP - 0603                      C25            CAP_0603
+CAP - 0603                      C26            CAP_0603
+CAP - 0603                      C27            CAP_0603
+CAP - 0603                      C28            CAP_0603
+CAP - 0603                      C29            CAP_0603
+CAP - 0603                      C30            CAP_0603
+CAP - 0603                      C31            CAP_0603
+CAP - 0603                      C32            CAP_0603
+CAP - 0603                      C33            CAP_0603
+CAP - 0603                      C34            CAP_0603
+CAP - 0603                      C35            CAP_0603
+CAP - 0603                      C36            CAP_0603
+CAP - 0603                      C37            CAP_0603
+CAP - 0603                      C38            CAP_0603
+CAP - 0603                      C39            CAP_0603
+CAP - 0603                      C40            CAP_0603
+CAP - 0603                      C41            CAP_0603
+MAL214699501E3                  C42            CAP_ALU_1010_vishay
+CAP - 0603                      C43            CAP_0603
+MAL214699501E3                  C44            CAP_ALU_1010_vishay
+CAP - 0603                      C45            CAP_0603
+CAP - 0603                      C46            CAP_0603
+MAL215099101E3                  C47            CAP_ALU_1010_vishay
+CAP - 0402                      C48            CAP_0402
+CAP - 0603                      C49            CAP_0603
+CAP - 0603                      C50            CAP_0603
+MAL215099101E3                  C51            CAP_ALU_1010_vishay
+CAP - 0402                      C52            CAP_0402
+CAP - 0402                      C53            CAP_0402
+CAP - 0402                      C54            CAP_0402
+CAP - 0402                      C55            CAP_0402
+CAP - 0402                      C56            CAP_0402
+CAP - 0402                      C57            CAP_0402
+CAP - 0402                      C58            CAP_0402
+CAP - 0402                      C59            CAP_0402
+CAP - 0402                      C60            CAP_0402
+CAP - 0402                      C61            CAP_0402
+CAP - 0402                      C62            CAP_0402
+CAP - 0402                      C63            CAP_0402
+CAP - 0402                      C64            CAP_0402
+CAP - 0402                      C65            CAP_0402
+MAL214699108E3                  C66            CAP_ALU_1616_vishay
+CAP - 0402                      C67            CAP_0402
+CAP - 0402                      C68            CAP_0402
+CAP - 0402                      C69            CAP_0402
+CAP - 0603                      C70            CAP_0603
+CAP - 0402                      C71            CAP_0402
+CAP - 0402                      C72            CAP_0402
+CAP - 0402                      C73            CAP_0402
+CAP - 0402                      C74            CAP_0402
+CAP - 0603                      C75            CAP_0603
+CAP - 0603                      C76            CAP_0603
+CAP - 0603                      C77            CAP_0603
+CAP - 0603                      C78            CAP_0603
+CAP - 0603                      C79            CAP_0603
+CAP - 0402                      C80            CAP_0402
+CAP - 0402                      C81            CAP_0402
+CAP - 0402                      C82            CAP_0402
+CAP - 0402                      C83            CAP_0402
+CAP - 0402                      C84            CAP_0402
+CAP - 0603                      C85            CAP_0603
+CAP - 0603                      C86            CAP_0603
+CAP - 0603                      C87            CAP_0603
+MAL214699108E3                  C88            CAP_ALU_1616_vishay
+CAP - 0603                      C89            CAP_0603
+CAP - 0603                      C90            CAP_0603
+CAP - 0603                      C91            CAP_0603
+CAP - 0603                      C92            CAP_0603
+CAP - 0603                      C93            CAP_0603
+CAP - 0603                      C94            CAP_0603
+CAP - 0603                      C95            CAP_0603
+CAP - 0603                      C96            CAP_0603
+CAP - 0402                      C97            CAP_0402
+CAP - 0402                      C98            CAP_0402
+CAP - 0402                      C99            CAP_0402
+CAP - 0402                      C100           CAP_0402
+CAP - 0402                      C101           CAP_0402
+CAP - 0402                      C102           CAP_0402
+CAP - 0402                      C103           CAP_0402
+CAP - 0402                      C104           CAP_0402
+CAP - 0402                      C105           CAP_0402
+CAP - 0402                      C106           CAP_0402
+CAP - 0402                      C107           CAP_0402
+CAP - 0402                      C108           CAP_0402
+CAP - 0603                      C109           CAP_0603
+CAP - 0603                      C110           CAP_0603
+CAP - 0603                      C111           CAP_0603
+CAP - 0603                      C112           CAP_0603
+CAP - 0603                      C113           CAP_0603
+CAP - 0603                      C114           CAP_0603
+CAP - 0603                      C115           CAP_0603
+CAP - 0402                      C116           CAP_0402
+CAP - 0402                      C117           CAP_0402
+CAP - 0402                      C118           CAP_0402
+CAP - 0402                      C119           CAP_0402
+CAP - 0402                      C120           CAP_0402
+CAP - 0402                      C121           CAP_0402
+CAP - 0402                      C122           CAP_0402
+CAP - 0402                      C123           CAP_0402
+CAP - 0402                      C124           CAP_0402
+CAP - 0402                      C125           CAP_0402
+CAP - 0402                      C126           CAP_0402
+CAP - 0402                      C127           CAP_0402
+CAP - 0402                      C128           CAP_0402
+CAP - 0402                      C129           CAP_0402
+CAP - 0402                      C130           CAP_0402
+CAP - 0402                      C131           CAP_0402
+CAP - 0402                      C132           CAP_0402
+CAP - 0603                      C133           CAP_0603
+CAP - 0603                      C134           CAP_0603
+CAP - 0603                      C135           CAP_0603
+CAP - 0603                      C136           CAP_0603
+CAP - 0603                      C137           CAP_0603
+CAP - 0603                      C138           CAP_0603
+CAP - 0603                      C139           CAP_0603
+CAP - 0603                      C140           CAP_0603
+CAP - 0603                      C141           CAP_0603
+CAP - 0603                      C142           CAP_0603
+CAP - 0603                      C143           CAP_0603
+CAP - 0603                      C144           CAP_0603
+CAP - 0603                      C145           CAP_0603
+CAP - 0603                      C146           CAP_0603
+CAP - 0603                      C147           CAP_0603
+CAP - 0603                      C148           CAP_0603
+CAP - 0603                      C149           CAP_0603
+CAP - 0603                      C150           CAP_0603
+CAP - 0603                      C151           CAP_0603
+CAP - 0603                      C152           CAP_0603
+CAP - 0603                      C153           CAP_0603
+CAP - 0402                      C154           CAP_0402
+CAP - 0402                      C155           CAP_0402
+CAP - 0402                      C156           CAP_0402
+CAP - 0402                      C157           CAP_0402
+CAP - 0402                      C158           CAP_0402
+CAP - 0402                      C159           CAP_0402
+CAP - 0402                      C160           CAP_0402
+CAP - 0402                      C161           CAP_0402
+CAP - 0402                      C162           CAP_0402
+CAP - 0402                      C163           CAP_0402
+CAP - 0402                      C164           CAP_0402
+CAP - 0402                      C165           CAP_0402
+CAP - 0402                      C166           CAP_0402
+CAP - 0402                      C167           CAP_0402
+CAP - 0402                      C168           CAP_0402
+CAP - 0402                      C169           CAP_0402
+CAP - 0402                      C170           CAP_0402
+CAP - 0402                      C171           CAP_0402
+CAP - 0402                      C172           CAP_0402
+CAP - 0402                      C173           CAP_0402
+CAP - 0402                      C174           CAP_0402
+CAP - 0402                      C175           CAP_0402
+CAP - 0402                      C176           CAP_0402
+CAP - 0402                      C177           CAP_0402
+CAP - 0402                      C178           CAP_0402
+CAP - 0402                      C179           CAP_0402
+CAP - 0402                      C180           CAP_0402
+CAP - 0402                      C181           CAP_0402
+CAP - 0402                      C182           CAP_0402
+CAP - 0402                      C183           CAP_0402
+CAP - 0402                      C184           CAP_0402
+CAP - 0402                      C185           CAP_0402
+CAP - 0402                      C186           CAP_0402
+CAP - 0402                      C187           CAP_0402
+CAP - 0402                      C188           CAP_0402
+CAP - 0402                      C189           CAP_0402
+CAP - 0402                      C190           CAP_0402
+CAP - 0402                      C191           CAP_0402
+CAP - 0402                      C192           CAP_0402
+CAP - 0402                      C193           CAP_0402
+CAP - 0402                      C194           CAP_0402
+CAP - 0402                      C195           CAP_0402
+CAP - 0402                      C196           CAP_0402
+CAP - 0402                      C197           CAP_0402
+CAP - 0402                      C198           CAP_0402
+CAP - 0402                      C199           CAP_0402
+CAP - 0402                      C200           CAP_0402
+CAP - 0402                      C201           CAP_0402
+CAP - 0402                      C202           CAP_0402
+CAP - 0402                      C203           CAP_0402
+CAP - 0402                      C204           CAP_0402
+CAP - 0402                      C205           CAP_0402
+TPD1E1B04DPYR                   D1             TVS_DATA_TPD1E1B04DPYR
+TPD1E1B04DPYR                   D2             TVS_DATA_TPD1E1B04DPYR
+MBRB4030T4G                     D3             DIO_SCHOTTKY_MBRB4030T4G
+MBRB4030T4G                     D4             DIO_SCHOTTKY_MBRB4030T4G
+SML-311UTT86                    D5             LED_0603
+TPD1E1B04DPYR                   D6             TVS_DATA_TPD1E1B04DPYR
+TPD1E1B04DPYR                   D7             TVS_DATA_TPD1E1B04DPYR
+TPD2E001DRLR                    D8             TVS_USB_TPD2E001DRLR
+SMBJ24CA                        D9             TVS_PWR_SMBJ36CA
+SMBJ24CA                        D10            TVS_PWR_SMBJ36CA
+SMBJ24CA                        D11            TVS_PWR_SMBJ36CA
+SMBJ24CA                        D12            TVS_PWR_SMBJ36CA
+SML-311DTT86                    D13            LED_0603
+SML-311DTT86                    D14            LED_0603
+SML-311DTT86                    D15            LED_0603
+SML-311DTT86                    D16            LED_0603
+0154002.DR                      F1             FUS_0154XXX.DR
+ADUM3160BRWZ-RL                 ISO1           ISO_ADUM3160BRWZ-RL
+5-1814400-1                     J1             CONN_SMA_5-1814400-1
+5-1814400-1                     J2             CONN_SMA_5-1814400-1
+0039300060                      J3             CON_MINIFIT_0039300060
+5-1814400-1                     J4             CONN_SMA_5-1814400-1
+5-1814400-1                     J5             CONN_SMA_5-1814400-1
+RJHSE-5385                      J6             CONN_ETHERNET_RJHSE-5385
+10118194-0001LF                 J7             CON_USB_10118194-0001LF
+OSTTC040162                     J8             CONN_TERMINAL_OSTTA040161
+FER - 1206                      L1             FER_1206
+FER - 0603                      L2             FER_0603
+FER - 0603                      L3             FER_0603
+FER - 0603                      L4             FER_0603
+FER - 0603                      L5             FER_0603
+FER - 0603                      L6             FER_0603
+FER - 0603                      L7             FER_0603
+FER - 0603                      L8             FER_0603
+FER - 0603                      L9             FER_0603
+FER - 0603                      L10            FER_0603
+FER - 0603                      L11            FER_0603
+410-357-B                       M1             MOD_JTAG_410-357-B
+M3                              MTH1           MTH_M3
+M3                              MTH2           MTH_M3
+M3                              MTH3           MTH_M3
+M3                              MTH4           MTH_M3
+RES - 0603                      R1             RES_0603
+RES - 0603                      R2             RES_0603
+RES - 0402                      R3             RES_0402
+RES - 0402                      R4             RES_0402
+RES - 0402                      R5             RES_0402
+RES - 0402                      R6             RES_0402
+RES - 0603                      R7             RES_0603
+RES - 0603                      R8             RES_0603
+RES - 0603                      R9             RES_0603
+RES - 0603                      R10            RES_0603
+RES - 0603                      R11            RES_0603
+RES - 0603                      R12            RES_0603
+RES - 0603                      R13            RES_0603
+RES - 0603                      R14            RES_0603
+RES - 0603                      R15            RES_0603
+RES - 0603                      R16            RES_0603
+RES - 0603                      R17            RES_0603
+RES - 0603                      R18            RES_0603
+RES - 0603                      R19            RES_0603
+RES - 0603                      R20            RES_0603
+RES - 0603                      R21            RES_0603
+RES - 0603                      R22            RES_0603
+RES - 0603                      R23            RES_0603
+RES - 0603                      R24            RES_0603
+RES - 0603                      R25            RES_0603
+RES - 0603                      R26            RES_0603
+RES - 0603                      R27            RES_0603
+RES - 0603                      R28            RES_0603
+RES - 0603                      R29            RES_0603
+RES - 0603                      R30            RES_0603
+RES - 0603                      R31            RES_0603
+RES - 0603                      R32            RES_0603
+RES - 0603                      R33            RES_0603
+RES - 0603                      R34            RES_0603
+RES - 0603                      R35            RES_0603
+RES - 0603                      R36            RES_0603
+RES - 0603                      R37            RES_0603
+RES - 0402                      R38            RES_0402
+RES - 0402                      R39            RES_0402
+RES - 0402                      R40            RES_0402
+RES - 0402                      R41            RES_0402
+RES - 0402                      R42            RES_0402
+RES - 0402                      R43            RES_0402
+RES - 0402                      R44            RES_0402
+RES - 0402                      R45            RES_0402
+RES - 0402                      R46            RES_0402
+RES - 0402                      R47            RES_0402
+RES - 0402                      R48            RES_0402
+RES - 0402                      R49            RES_0402
+RES - 0402                      R50            RES_0402
+RES - 0402                      R51            RES_0402
+RES - 0402                      R52            RES_0402
+RES - 0402                      R53            RES_0402
+RES - 0402                      R54            RES_0402
+RES - 0402                      R55            RES_0402
+RES - 0402                      R56            RES_0402
+RES - 0402                      R57            RES_0402
+RES - 0402                      R58            RES_0402
+RES - 0402                      R59            RES_0402
+RES - 0402                      R60            RES_0402
+RES - 0402                      R61            RES_0402
+RES - 0603                      R62            RES_0603
+RES - 0603                      R63            RES_0603
+RES - 0603                      R64            RES_0603
+RES - 0603                      R65            RES_0603
+RES - 0603                      R66            RES_0603
+RES - 0603                      R67            RES_0603
+RES - 0603                      R68            RES_0603
+RES - 1206                      R69            RES_1206
+RES - 0603                      R70            RES_0603
+RES - 0603                      R71            RES_0603
+RES - 0603                      R72            RES_0603
+RES - 0603                      R73            RES_0603
+RES - 1206                      R74            RES_1206
+RES - 0603                      R75            RES_0603
+RES - 0603                      R76            RES_0603
+RES - 0603                      R77            RES_0603
+RES - 0603                      R78            RES_0603
+RES - 0603                      R79            RES_0603
+RES - 0603                      R80            RES_0603
+RES - 0603                      R81            RES_0603
+RES - 0603                      R82            RES_0603
+RES - 0603                      R83            RES_0603
+RES - 0603                      R84            RES_0603
+RES - 0603                      R85            RES_0603
+RES - 0603                      R86            RES_0603
+RES - 0603                      R87            RES_0603
+RES - 0603                      R88            RES_0603
+RES - 0603                      R89            RES_0603
+RES - 0603                      R90            RES_0603
+RES - 0603                      R91            RES_0603
+RES - 0603                      R92            RES_0603
+RES - 0603                      R93            RES_0603
+RES - 0603                      R94            RES_0603
+RES - 0603                      R95            RES_0603
+RES - 0603                      R96            RES_0603
+RES - 0603                      R97            RES_0603
+RES - 0603                      R98            RES_0603
+RES - 0603                      R99            RES_0603
+RES - 0603                      R100           RES_0603
+RES - 0603                      R101           RES_0603
+RES - 0603                      R102           RES_0603
+RES - 0603                      R103           RES_0603
+RES - 0603                      R104           RES_0603
+RES - 0603                      R105           RES_0603
+RES - 0603                      R106           RES_0603
+RES - 0603                      R107           RES_0603
+RES - 0603                      R108           RES_0603
+RES - 0603                      R109           RES_0603
+RES - 0603                      R110           RES_0603
+RES - 0603                      R111           RES_0603
+RES - 0603                      R112           RES_0603
+RES - 0603                      R113           RES_0603
+B3SN-3012P                      SW1            SWI_TACT_B3SN-3012P
+B3SN-3012P                      SW2            SWI_TACT_B3SN-3012P
+B3SN-3012P                      SW3            SWI_TACT_B3SN-3012P
+H1102NLT                        T1             TRANSFO_H1102NLT
+PTN78020WAH                     U1             REG_SWR_PTN78020WAH
+TPS51200DRCT                    U2             REG_PMIC_TPS51200DRCT
+PTH08T241WAZ                    U3             REG_SWR_PTH08T241WAZ
+TPS51200DRCT                    U4             REG_PMIC_TPS51200DRCT
+TPS7A4701RGWR                   U5             REG_TPS7A4701RGWR
+TPS7A4701RGWR                   U6             REG_TPS7A4701RGWR
+KSZ8091MNXCA                    U7             COM_ETH_PHY_KSZ8091MNXCA
+XC6SLX100-3FGG676C              U8             FPGA_XILINX_FGG676
+MT41J128M16JT-125               U9             MEM_DDR3_MT41J128M16JT-125
+CDCE62005RGZT                   U10            TIM_CDCE62005RGZT
+TPS7A4701RGWR                   U11            REG_TPS7A4701RGWR
+AT25DF321A-MH-T                 U12            8MA1_UDFN_REN-L
+DRV8811PWPR                     U13            POW_MOTOR_DRV8811PWPR
+AD9146BCPZ                      U14            DAC_AD9146BCPZ
+AD8056ARMZ                      U15            OPAMP_AD8056ARMZ
+ADS62P48IRGCT                   U16            ADC_ADS62P48IRGCT
+ADA4927-2YCPZ-R2                U17            OPAMP_ADA4927-2YCPZ-R2
+LMZ34002RKGR                    U18            REG_SWR_LMZ34002RKGR
+TPS7A3301RGWR                   U19            REG_LDO_TPS7A3301RGWR
+TPS7A4701RGWR                   U20            REG_TPS7A4701RGWR
+TPS7A4701RGWR                   U21            REG_TPS7A4701RGWR
+ADA4927-2YCPZ-R2                U22            OPAMP_ADA4927-2YCPZ-R2
+ASDMB-25.000MHZ-LC-T            Y1             OSC_ASDMB-25.000MHZ-LC-T
+590BD-BDG                       Y2             OSC_590BD-BDG
+
+<<< Wire List >>>
+
+  NODE  REFERENCE  PIN #   PIN NAME       PIN TYPE    PART VALUE
+
+[00933] USB_DD_P
+        ISO1       10      DD+            PASSIVE     ADUM3160BRWZ-RL
+        M1         17      USB_DP         PASSIVE     410-357-B
+
+[00934] USB_DD_P
+
+[00931] USB_DD_N
+        ISO1       11      DD-            PASSIVE     ADUM3160BRWZ-RL
+        M1         16      USB_DM         PASSIVE     410-357-B
+
+[00932] USB_DD_N
+
+[00930] USB_5V
+        D8         1       VCC            PASSIVE     TPD2E001DRLR
+        ISO1       1       VBUS1          PASSIVE     ADUM3160BRWZ-RL
+        ISO1       3       VDD1           PASSIVE     ADUM3160BRWZ-RL
+        ISO1       4       PDEN           PASSIVE     ADUM3160BRWZ-RL
+        J7         1       VBUS           PASSIVE     10118194-0001LF
+        R3         2       2              PASSIVE     RES - 0402
+
+[00929] USB_3V3
+        ISO1       12      PIN            PASSIVE     ADUM3160BRWZ-RL
+        ISO1       14      VDD2           PASSIVE     ADUM3160BRWZ-RL
+        ISO1       16      VBUS2          PASSIVE     ADUM3160BRWZ-RL
+        M1         2       VREF_UART      PASSIVE     410-357-B
+        M1         8       VREF_JTAG      PASSIVE     410-357-B
+        M1         15      VDD            PASSIVE     410-357-B
+        R4         2       2              PASSIVE     RES - 0402
+        R106       2       2              PASSIVE     RES - 0603
+
+[00928] USB
+        C66        1       1              PASSIVE     MAL214699108E3
+        D8         4       GND            PASSIVE     TPD2E001DRLR
+        ISO1       2       GND1           PASSIVE     ADUM3160BRWZ-RL
+        ISO1       8       GND1           PASSIVE     ADUM3160BRWZ-RL
+        J7         5       GND            PASSIVE     10118194-0001LF
+        J7         6       SHIELD         PASSIVE     10118194-0001LF
+        J7         7       SHIELD         PASSIVE     10118194-0001LF
+        J7         8       SHIELD         PASSIVE     10118194-0001LF
+        J7         9       SHIELD         PASSIVE     10118194-0001LF
+        J7         10      SHIELD         PASSIVE     10118194-0001LF
+        J7         11      SHIELD         PASSIVE     10118194-0001LF
+        R5         2       2              PASSIVE     RES - 0402
+
+[00927] TX_P
+        J6         1       1              PASSIVE     RJHSE-5385
+        R7         2       2              PASSIVE     RES - 0603
+        T1         11      RX+            PASSIVE     H1102NLT
+
+[00926] TX_N
+        J6         2       2              PASSIVE     RJHSE-5385
+        R8         2       2              PASSIVE     RES - 0603
+        T1         9       RX-            PASSIVE     H1102NLT
+
+[00925] Tx
+        M1         6       TXD(OUT)       PASSIVE     410-357-B
+
+[00924] SPI_MOSI
+        U10        23      SPI_MOSI       PASSIVE     CDCE62005RGZT
+
+[00923] SPI_MISO
+        U10        22      SPI_MISO       PASSIVE     CDCE62005RGZT
+        U10        25      SPI_LE         PASSIVE     CDCE62005RGZT
+
+[00922] SPI_CLK
+        U10        24      SPI_CLK        PASSIVE     CDCE62005RGZT
+
+[00921] RX_P
+        J6         3       3              PASSIVE     RJHSE-5385
+        R9         2       2              PASSIVE     RES - 0603
+        T1         16      TX+            PASSIVE     H1102NLT
+
+[00920] RX_N
+        J6         6       6              PASSIVE     RJHSE-5385
+        R10        2       2              PASSIVE     RES - 0603
+        T1         14      TX-            PASSIVE     H1102NLT
+
+[00919] Rx
+        M1         5       RXD(IN)        PASSIVE     410-357-B
+
+[00444] NetU7_9
+        U7         9       XI             PASSIVE     KSZ8091MNXCA
+        Y1         3       OUTPUT         PASSIVE     ASDMB-25.000MHZ-LC-T
+
+[00413] NetR111_2
+        R111       2       2              PASSIVE     RES - 0603
+        U18        36      VADJ           PASSIVE     LMZ34002RKGR
+
+[00412] NetR109_1
+        R109       1       1              PASSIVE     RES - 0603
+        R110       2       2              PASSIVE     RES - 0603
+        U18        27      INH/UVLO       PASSIVE     LMZ34002RKGR
+
+[00411] NetR108_2
+        R108       2       2              PASSIVE     RES - 0603
+        U8         AA20    RFUSE          PASSIVE     XC6SLX100-3FGG676C
+
+[00410] NetR105_1
+        R105       1       1              PASSIVE     RES - 0603
+        U17        2       +FB1           PASSIVE     ADA4927-2YCPZ-R2
+
+[00409] NetR104_1
+        R104       1       1              PASSIVE     RES - 0603
+        R105       2       2              PASSIVE     RES - 0603
+        U17        1       -IN1           PASSIVE     ADA4927-2YCPZ-R2
+
+[00408] NetR99_2
+        R99        2       2              PASSIVE     RES - 0603
+        R101       1       1              PASSIVE     RES - 0603
+        U17        24      +IN1           PASSIVE     ADA4927-2YCPZ-R2
+
+[00407] NetR99_1
+        R99        1       1              PASSIVE     RES - 0603
+        U17        23      -FB1           PASSIVE     ADA4927-2YCPZ-R2
+
+[00406] NetR97_1
+        R97        1       1              PASSIVE     RES - 0603
+        U22        2       +FB1           PASSIVE     ADA4927-2YCPZ-R2
+
+[00405] NetR96_1
+        R96        1       1              PASSIVE     RES - 0603
+        R97        2       2              PASSIVE     RES - 0603
+        U22        1       -IN1           PASSIVE     ADA4927-2YCPZ-R2
+
+[00404] NetR91_2
+        R91        2       2              PASSIVE     RES - 0603
+        R93        1       1              PASSIVE     RES - 0603
+        U22        24      +IN1           PASSIVE     ADA4927-2YCPZ-R2
+
+[00403] NetR91_1
+        R91        1       1              PASSIVE     RES - 0603
+        U22        23      -FB1           PASSIVE     ADA4927-2YCPZ-R2
+
+[00402] NetR90_2
+        R90        2       2              PASSIVE     RES - 0603
+        U14        43      FSADJ          PASSIVE     AD9146BCPZ
+
+[00401] NetR85_1
+        R85        1       1              PASSIVE     RES - 0603
+        R86        1       1              PASSIVE     RES - 0603
+        U15        5       +IN2           PASSIVE     AD8056ARMZ
+
+[00400] NetR82_2
+        R82        2       2              PASSIVE     RES - 0603
+        R83        1       1              PASSIVE     RES - 0603
+        U15        6       -IN2           PASSIVE     AD8056ARMZ
+
+[00399] NetR82_1
+        R82        1       1              PASSIVE     RES - 0603
+        R84        2       2              PASSIVE     RES - 0603
+        U15        7       OUT2           PASSIVE     AD8056ARMZ
+
+[00398] NetR78_1
+        R78        1       1              PASSIVE     RES - 0603
+        R79        1       1              PASSIVE     RES - 0603
+        U15        3       +IN1           PASSIVE     AD8056ARMZ
+
+[00397] NetR75_2
+        R75        2       2              PASSIVE     RES - 0603
+        R76        1       1              PASSIVE     RES - 0603
+        U15        2       -IN1           PASSIVE     AD8056ARMZ
+
+[00396] NetR75_1
+        R75        1       1              PASSIVE     RES - 0603
+        R77        2       2              PASSIVE     RES - 0603
+        U15        1       OUT1           PASSIVE     AD8056ARMZ
+
+[00395] NetR74_2
+        R74        2       2              PASSIVE     RES - 1206
+        U13        14      ISENB          PASSIVE     DRV8811PWPR
+
+[00394] NetR69_2
+        R69        2       2              PASSIVE     RES - 1206
+        U13        1       ISENA          PASSIVE     DRV8811PWPR
+
+[00393] NetR67_1
+        R67        1       1              PASSIVE     RES - 0603
+        R68        2       2              PASSIVE     RES - 0603
+        U13        8       VREF           PASSIVE     DRV8811PWPR
+
+[00392] NetR66_2
+        R66        2       2              PASSIVE     RES - 0603
+        U8         AF3     PROGRAM_B_2    PASSIVE     XC6SLX100-3FGG676C
+
+[00391] NetR62_1
+        R62        1       1              PASSIVE     RES - 0603
+        U8         AF23    DONE_2         PASSIVE     XC6SLX100-3FGG676C
+
+[00390] NetR61_2
+        R61        2       2              PASSIVE     RES - 0402
+        U10        30      TESTOUTA       PASSIVE     CDCE62005RGZT
+
+[00389] NetR30_2
+        R30        2       2              PASSIVE     RES - 0603
+        U7         10      REXT           PASSIVE     KSZ8091MNXCA
+
+[00388] NetR29_1
+        R29        1       1              PASSIVE     RES - 0603
+        U7         22      TXC/PME_EN     PASSIVE     KSZ8091MNXCA
+
+[00387] NetR28_1
+        R28        1       1              PASSIVE     RES - 0603
+        U7         19      RXC/B-CAST_OFF PASSIVE     KSZ8091MNXCA
+
+[00386] NetR27_2
+        R27        2       2              PASSIVE     RES - 0603
+        U7         30      LED0/PME_N1/NWAPASSIVE     KSZ8091MNXCA
+
+[00385] NetR26_1
+        R26        1       1              PASSIVE     RES - 0603
+        U7         13      RXD3/PHYAD0    PASSIVE     KSZ8091MNXCA
+
+[00384] NetR25_1
+        R25        1       1              PASSIVE     RES - 0603
+        U7         14      RXD2/PHYAD1    PASSIVE     KSZ8091MNXCA
+
+[00383] NetR24_1
+        R24        1       1              PASSIVE     RES - 0603
+        U7         15      RXD1/PHYAD2    PASSIVE     KSZ8091MNXCA
+
+[00382] NetR23_1
+        R23        1       1              PASSIVE     RES - 0603
+        U7         16      RXD0/DUPLEX    PASSIVE     KSZ8091MNXCA
+
+[00381] NetR22_1
+        R22        1       1              PASSIVE     RES - 0603
+        U7         20      RXER/ISO       PASSIVE     KSZ8091MNXCA
+
+[00380] NetR21_1
+        R21        1       1              PASSIVE     RES - 0603
+        U7         18      RXDV/CONGIG2   PASSIVE     KSZ8091MNXCA
+
+[00379] NetR16_1
+        R16        1       1              PASSIVE     RES - 0603
+        U4         9       PGOOD          PASSIVE     TPS51200DRCT
+
+[00378] NetR14_2
+        R14        2       2              PASSIVE     RES - 0603
+        U3         8       VO_Adj         PASSIVE     PTH08T241WAZ
+
+[00377] NetR12_2
+        R12        2       2              PASSIVE     RES - 0603
+        U1         4       Vo_Adjust      PASSIVE     PTN78020WAH
+
+[00376] NetR11_1
+        R11        1       1              PASSIVE     RES - 0603
+        U2         9       PGOOD          PASSIVE     TPS51200DRCT
+
+[00371] NetM1_18
+        M1         18      VBUS_DETECT    PASSIVE     410-357-B
+        R106       1       1              PASSIVE     RES - 0603
+        R107       2       2              PASSIVE     RES - 0603
+
+[00367] NetL11_2
+        L11        2       2              PASSIVE     FER - 0603
+        U17        18      +OUT1          PASSIVE     ADA4927-2YCPZ-R2
+
+[00366] NetL11_1
+        L11        1       1              PASSIVE     FER - 0603
+        R102       2       2              PASSIVE     RES - 0603
+
+[00365] NetL10_2
+        L10        2       2              PASSIVE     FER - 0603
+        U17        19      -OUT1          PASSIVE     ADA4927-2YCPZ-R2
+
+[00364] NetL10_1
+        L10        1       1              PASSIVE     FER - 0603
+        R100       2       2              PASSIVE     RES - 0603
+
+[00363] NetL9_2
+        L9         2       2              PASSIVE     FER - 0603
+        U22        18      +OUT1          PASSIVE     ADA4927-2YCPZ-R2
+
+[00362] NetL9_1
+        L9         1       1              PASSIVE     FER - 0603
+        R94        2       2              PASSIVE     RES - 0603
+
+[00361] NetL8_2
+        L8         2       2              PASSIVE     FER - 0603
+        U22        19      -OUT1          PASSIVE     ADA4927-2YCPZ-R2
+
+[00360] NetL8_1
+        L8         1       1              PASSIVE     FER - 0603
+        R92        2       2              PASSIVE     RES - 0603
+
+[00359] NetL7_2
+        L7         2       2              PASSIVE     FER - 0603
+        R88        2       2              PASSIVE     RES - 0603
+        U14        46      IOUT1N         PASSIVE     AD9146BCPZ
+
+[00358] NetL6_2
+        L6         2       2              PASSIVE     FER - 0603
+        R87        2       2              PASSIVE     RES - 0603
+        U14        47      IOUT1P         PASSIVE     AD9146BCPZ
+
+[00357] NetL5_2
+        L5         2       2              PASSIVE     FER - 0603
+        R81        2       2              PASSIVE     RES - 0603
+        U14        39      IOUT2N         PASSIVE     AD9146BCPZ
+
+[00356] NetL4_2
+        L4         2       2              PASSIVE     FER - 0603
+        R80        2       2              PASSIVE     RES - 0603
+        U14        38      IOUT2P         PASSIVE     AD9146BCPZ
+
+[00350] NetISO1_13
+        ISO1       13      SPD            PASSIVE     ADUM3160BRWZ-RL
+        R4         1       1              PASSIVE     RES - 0402
+        R6         2       2              PASSIVE     RES - 0402
+
+[00349] NetISO1_5
+        ISO1       5       SPU            PASSIVE     ADUM3160BRWZ-RL
+        R3         1       1              PASSIVE     RES - 0402
+        R5         1       1              PASSIVE     RES - 0402
+
+[00348] NetD16_A
+        D16        A       A              PASSIVE     SML-311DTT86
+        R37        1       1              PASSIVE     RES - 0603
+
+[00347] NetD15_A
+        D15        A       A              PASSIVE     SML-311DTT86
+        R36        1       1              PASSIVE     RES - 0603
+
+[00346] NetD14_A
+        D14        A       A              PASSIVE     SML-311DTT86
+        R35        1       1              PASSIVE     RES - 0603
+
+[00345] NetD13_A
+        D13        A       A              PASSIVE     SML-311DTT86
+        R34        1       1              PASSIVE     RES - 0603
+
+[00344] NetD5_A
+        D5         A       A              PASSIVE     SML-311UTT86
+        R1         1       1              PASSIVE     RES - 0603
+
+[00343] NetD3_4
+        D3         4       4              PASSIVE     MBRB4030T4G
+        F1         1       1              PASSIVE     0154002.DR
+
+[00342] NetD3_1
+        D3         1       A              PASSIVE     MBRB4030T4G
+        D3         3       3              PASSIVE     MBRB4030T4G
+        J3         1       1              PASSIVE     0039300060
+        J3         2       2              PASSIVE     0039300060
+        J3         3       3              PASSIVE     0039300060
+
+[00341] NetC152_2
+        C152       2       2              PASSIVE     CAP - 0603
+        C153       2       2              PASSIVE     CAP - 0603
+        U21        14      NR             PASSIVE     TPS7A4701RGWR
+
+[00340] NetC149_2
+        C149       2       2              PASSIVE     CAP - 0603
+        C150       2       2              PASSIVE     CAP - 0603
+        U20        14      NR             PASSIVE     TPS7A4701RGWR
+
+[00339] NetC142_2
+        C142       2       2              PASSIVE     CAP - 0603
+        U19        14      NR/SS          PASSIVE     TPS7A3301RGWR
+
+[00338] NetC140_2
+        C140       2       2              PASSIVE     CAP - 0603
+        R112       2       2              PASSIVE     RES - 0603
+        R113       2       2              PASSIVE     RES - 0603
+        U19        3       FB             PASSIVE     TPS7A3301RGWR
+
+[00337] NetC136_2
+        C136       2       2              PASSIVE     CAP - 0603
+        C137       2       2              PASSIVE     CAP - 0603
+        U11        14      NR             PASSIVE     TPS7A4701RGWR
+
+[00336] NetC115_2
+        C115       2       2              PASSIVE     CAP - 0603
+        R100       1       1              PASSIVE     RES - 0603
+        U16        19      INP_B          PASSIVE     ADS62P48IRGCT
+
+[00335] NetC115_1
+        C115       1       1              PASSIVE     CAP - 0603
+        R102       1       1              PASSIVE     RES - 0603
+        U16        20      INM_B          PASSIVE     ADS62P48IRGCT
+
+[00334] NetC113_1
+        C113       1       1              PASSIVE     CAP - 0603
+        U16        26      CLKM           PASSIVE     ADS62P48IRGCT
+
+[00333] NetC112_1
+        C112       1       1              PASSIVE     CAP - 0603
+        U16        25      CLKP           PASSIVE     ADS62P48IRGCT
+
+[00332] NetC111_2
+        C111       2       2              PASSIVE     CAP - 0603
+        R92        1       1              PASSIVE     RES - 0603
+        U16        29      INP_A          PASSIVE     ADS62P48IRGCT
+
+[00331] NetC111_1
+        C111       1       1              PASSIVE     CAP - 0603
+        R94        1       1              PASSIVE     RES - 0603
+        U16        30      INM_A          PASSIVE     ADS62P48IRGCT
+
+[00330] NetC109_2
+        C109       2       2              PASSIVE     CAP - 0603
+        U14        42      REFIO          PASSIVE     AD9146BCPZ
+
+[00329] NetC96_2
+        C96        2       2              PASSIVE     CAP - 0603
+        L4         1       1              PASSIVE     FER - 0603
+        R76        2       2              PASSIVE     RES - 0603
+
+[00328] NetC96_1
+        C96        1       1              PASSIVE     CAP - 0603
+        L5         1       1              PASSIVE     FER - 0603
+        R78        2       2              PASSIVE     RES - 0603
+
+[00327] NetC95_2
+        C95        2       2              PASSIVE     CAP - 0603
+        R73        2       2              PASSIVE     RES - 0603
+        U13        9       RCB            PASSIVE     DRV8811PWPR
+
+[00326] NetC94_2
+        C94        2       2              PASSIVE     CAP - 0603
+        R72        2       2              PASSIVE     RES - 0603
+        U13        6       RCA            PASSIVE     DRV8811PWPR
+
+[00325] NetC93_2
+        C93        2       2              PASSIVE     CAP - 0603
+        R70        1       1              PASSIVE     RES - 0603
+        R71        2       2              PASSIVE     RES - 0603
+        U13        5       DECAY          PASSIVE     DRV8811PWPR
+
+[00324] NetC91_2
+        C91        2       2              PASSIVE     CAP - 0603
+        U13        23      CP1            PASSIVE     DRV8811PWPR
+
+[00323] NetC91_1
+        C91        1       1              PASSIVE     CAP - 0603
+        U13        24      CP2            PASSIVE     DRV8811PWPR
+
+[00322] NetC90_2
+        C90        2       2              PASSIVE     CAP - 0603
+        U13        22      VCP            PASSIVE     DRV8811PWPR
+
+[00321] NetC89_2
+        C89        2       2              PASSIVE     CAP - 0603
+        U13        20      VGD            PASSIVE     DRV8811PWPR
+
+[00320] NetC79_2
+        C79        2       2              PASSIVE     CAP - 0603
+        U10        38      REG_CAP2       PASSIVE     CDCE62005RGZT
+
+[00319] NetC78_2
+        C78        2       2              PASSIVE     CAP - 0603
+        U10        4       REG_CAP1       PASSIVE     CDCE62005RGZT
+
+[00318] NetC77_2
+        C77        2       2              PASSIVE     CAP - 0603
+        U10        48      VBB            PASSIVE     CDCE62005RGZT
+
+[00317] NetC75_2
+        C75        2       2              PASSIVE     CAP - 0603
+        C76        2       2              PASSIVE     CAP - 0603
+        L3         1       1              PASSIVE     FER - 0603
+        U10        5       VCC1_PLL       PASSIVE     CDCE62005RGZT
+        U10        34      VCC_VCO        PASSIVE     CDCE62005RGZT
+        U10        35      VCC_VCO        PASSIVE     CDCE62005RGZT
+        U10        39      VCC2_PLL       PASSIVE     CDCE62005RGZT
+        U10        42      VCC2_PLL       PASSIVE     CDCE62005RGZT
+
+[00316] NetC70_2
+        C70        2       2              PASSIVE     CAP - 0603
+        L6         1       1              PASSIVE     FER - 0603
+        R83        2       2              PASSIVE     RES - 0603
+
+[00315] NetC70_1
+        C70        1       1              PASSIVE     CAP - 0603
+        L7         1       1              PASSIVE     FER - 0603
+        R85        2       2              PASSIVE     RES - 0603
+
+[00314] NetC44_1
+        C44        1       1              PASSIVE     MAL214699501E3
+        L2         1       1              PASSIVE     FER - 0603
+        U7         3       VDDA_3         POWER       KSZ8091MNXCA
+
+[00313] NetC42_1
+        C42        1       1              PASSIVE     MAL214699501E3
+        C43        2       2              PASSIVE     CAP - 0603
+        U7         2       VDD_1          POWER       KSZ8091MNXCA
+
+[00312] NetC41_2
+        C41        2       2              PASSIVE     CAP - 0603
+        U4         6       REFOUT         PASSIVE     TPS51200DRCT
+
+[00311] NetC40_2
+        C40        2       2              PASSIVE     CAP - 0603
+        R17        1       1              PASSIVE     RES - 0603
+        R18        2       2              PASSIVE     RES - 0603
+        U4         1       REFIN          PASSIVE     TPS51200DRCT
+
+[00310] NetC38_2
+        C38        2       2              PASSIVE     CAP - 0603
+        C39        2       2              PASSIVE     CAP - 0603
+        U6         14      NR             PASSIVE     TPS7A4701RGWR
+
+[00309] NetC35_2
+        C35        2       2              PASSIVE     CAP - 0603
+        C36        2       2              PASSIVE     CAP - 0603
+        U5         14      NR             PASSIVE     TPS7A4701RGWR
+
+[00308] NetC23_2
+        C23        2       2              PASSIVE     CAP - 0603
+        U2         6       REFOUT         PASSIVE     TPS51200DRCT
+
+[00307] NetC22_2
+        C22        2       2              PASSIVE     CAP - 0603
+        R13        1       1              PASSIVE     RES - 0603
+        R15        2       2              PASSIVE     RES - 0603
+        U2         1       REFIN          PASSIVE     TPS51200DRCT
+
+[00306] NetC3_2
+        C3         2       2              PASSIVE     CAP - 1206
+        R7         1       1              PASSIVE     RES - 0603
+        R8         1       1              PASSIVE     RES - 0603
+        R9         1       1              PASSIVE     RES - 0603
+        R10        1       1              PASSIVE     RES - 0603
+
+[00305] NetC3_1
+        C3         1       1              PASSIVE     CAP - 1206
+        L1         2       2              PASSIVE     FER - 1206
+
+[00304] NetC2_2
+        C2         2       2              PASSIVE     CAP - 0805
+        T1         7       RDCT           PASSIVE     H1102NLT
+
+[00303] NetC1_2
+        C1         2       2              PASSIVE     CAP - 0805
+        T1         2       TDCT           PASSIVE     H1102NLT
+
+[00302] JTAG_TMS
+        M1         13      TMS            PASSIVE     410-357-B
+        U8         C23     TMS            PASSIVE     XC6SLX100-3FGG676C
+
+[00301] JTAG_TDO
+        M1         11      TDO            PASSIVE     410-357-B
+        U8         A24     TDO            PASSIVE     XC6SLX100-3FGG676C
+
+[00300] JTAG_TDI
+        M1         12      TDI            PASSIVE     410-357-B
+        U8         F20     TDI            PASSIVE     XC6SLX100-3FGG676C
+
+[00299] JTAG_TCK
+        M1         10      TCK            PASSIVE     410-357-B
+        U8         E21     TCK            PASSIVE     XC6SLX100-3FGG676C
+
+[00298] IO_L35_P
+        U8         B14     IO_L35P_GCLK17_PASSIVE     XC6SLX100-3FGG676C
+
+[00297] IO_L35_N
+        U8         A14     IO_L35N_GCLK16_PASSIVE     XC6SLX100-3FGG676C
+
+[00295] IO_L34_P
+        U8         C13     IO_L34P_GCLK19_PASSIVE     XC6SLX100-3FGG676C
+
+[00296] IO_L34_P
+
+[00293] IO_L34_N
+        U8         A13     IO_L34N_GCLK18_PASSIVE     XC6SLX100-3FGG676C
+
+[00294] IO_L34_N
+
+[00292] IO_L20P_2
+        U8         D12     IO_L31P_0      PASSIVE     XC6SLX100-3FGG676C
+
+[00291] IO_L20N_2
+        U8         C12     IO_L31N_0      PASSIVE     XC6SLX100-3FGG676C
+
+[00290] IO_L19P_2
+        U8         B12     IO_L26P_0      PASSIVE     XC6SLX100-3FGG676C
+
+[00289] IO_L19N_2
+        U8         A12     IO_L26N_0      PASSIVE     XC6SLX100-3FGG676C
+
+[00288] IO_L18P_2
+        U8         C11     IO_L24P_0      PASSIVE     XC6SLX100-3FGG676C
+
+[00287] IO_L18N_2
+        U8         A11     IO_L24N_0      PASSIVE     XC6SLX100-3FGG676C
+
+[00286] IO_L17P_2
+        U8         D11     IO_L23P_0      PASSIVE     XC6SLX100-3FGG676C
+
+[00285] IO_L17N_2
+        U8         F11     IO_L23N_0      PASSIVE     XC6SLX100-3FGG676C
+
+[00284] IO_L16P_2
+        U8         B10     IO_L22P_0      PASSIVE     XC6SLX100-3FGG676C
+
+[00283] IO_L16N_2
+        U8         A10     IO_L22N_0      PASSIVE     XC6SLX100-3FGG676C
+
+[00282] IO_L15P_2
+        U8         D10     IO_L19P_0      PASSIVE     XC6SLX100-3FGG676C
+
+[00281] IO_L15N_2
+        U8         C10     IO_L19N_0      PASSIVE     XC6SLX100-3FGG676C
+
+[00280] IO_L14P_2
+        U8         E10     IO_L18P_0      PASSIVE     XC6SLX100-3FGG676C
+
+[00279] IO_L14N_2
+        U8         F10     IO_L18N_0      PASSIVE     XC6SLX100-3FGG676C
+
+[00278] IO_L13P_2
+        U8         C9      IO_L17P_0      PASSIVE     XC6SLX100-3FGG676C
+
+[00277] IO_L13N_2
+        U8         A9      IO_L17N_0      PASSIVE     XC6SLX100-3FGG676C
+
+[00276] IO_L12P_2
+        U8         B8      IO_L16P_0      PASSIVE     XC6SLX100-3FGG676C
+
+[00275] IO_L12N_2
+        U8         A8      IO_L16N_0      PASSIVE     XC6SLX100-3FGG676C
+
+[00274] IO_L11P_2
+        U8         F9      IO_L15P_0      PASSIVE     XC6SLX100-3FGG676C
+
+[00273] IO_L11N_2
+        U8         E9      IO_L15N_0      PASSIVE     XC6SLX100-3FGG676C
+
+[00272] IO_L10P_2
+        U8         D8      IO_L14P_0      PASSIVE     XC6SLX100-3FGG676C
+
+[00271] IO_L10N_2
+        U8         C8      IO_L14N_0      PASSIVE     XC6SLX100-3FGG676C
+
+[00270] IO_L9P_2
+        U8         E8      IO_L13P_0      PASSIVE     XC6SLX100-3FGG676C
+
+[00269] IO_L9N_2
+        U8         D7      IO_L13N_0      PASSIVE     XC6SLX100-3FGG676C
+
+[00268] IO_L8P_2
+        U8         D6      IO_L8P_0       PASSIVE     XC6SLX100-3FGG676C
+
+[00267] IO_L8N_2
+        U8         C6      IO_L8N_VREF_0  PASSIVE     XC6SLX100-3FGG676C
+
+[00266] IO_L7P_2
+        U8         C7      IO_L12P_0      PASSIVE     XC6SLX100-3FGG676C
+
+[00265] IO_L7N_2
+        U8         A7      IO_L12N_0      PASSIVE     XC6SLX100-3FGG676C
+
+[00264] IO_L6P_2
+        U8         B6      IO_L6P_0       PASSIVE     XC6SLX100-3FGG676C
+
+[00263] IO_L6N_2
+        U8         A6      IO_L6N_0       PASSIVE     XC6SLX100-3FGG676C
+
+[00262] IO_L5_P
+        U8         G8      IO_L5P_0       PASSIVE     XC6SLX100-3FGG676C
+
+[00261] IO_L5_N
+        U8         F7      IO_L5N_0       PASSIVE     XC6SLX100-3FGG676C
+
+[00260] IO_L4_P
+        U8         C5      IO_L4P_0       PASSIVE     XC6SLX100-3FGG676C
+
+[00259] IO_L4_N
+        U8         A5      IO_L4N_0       PASSIVE     XC6SLX100-3FGG676C
+
+[00258] IO_L3_P
+        U8         E6      IO_L3P_0       PASSIVE     XC6SLX100-3FGG676C
+
+[00257] IO_L3_N
+        U8         D5      IO_L3N_0       PASSIVE     XC6SLX100-3FGG676C
+
+[00256] IO_L2_P
+        U8         B4      IO_L2P_0       PASSIVE     XC6SLX100-3FGG676C
+
+[00255] IO_L2_N
+        U8         A4      IO_L2N_0       PASSIVE     XC6SLX100-3FGG676C
+
+[00254] GND
+        C1         1       1              PASSIVE     CAP - 0805
+        C2         1       1              PASSIVE     CAP - 0805
+        C4         1       1              PASSIVE     CAP - 0603
+        C5         2       2              PASSIVE     MAL214699501E3
+        C6         1       1              PASSIVE     CAP - 1206
+        C7         1       1              PASSIVE     CAP - 1206
+        C8         1       1              PASSIVE     CAP - 1206
+        C9         1       1              PASSIVE     CAP - 1206
+        C10        1       1              PASSIVE     CAP - 1206
+        C11        1       1              PASSIVE     CAP - 1206
+        C12        1       1              PASSIVE     CAP - 1206
+        C13        1       1              PASSIVE     CAP - 1206
+        C14        1       1              PASSIVE     CAP - 1206
+        C15        1       1              PASSIVE     CAP - 1206
+        C16        1       1              PASSIVE     CAP - 0603
+        C17        1       1              PASSIVE     CAP - 0603
+        C18        1       1              PASSIVE     CAP - 0603
+        C19        1       1              PASSIVE     CAP - 0603
+        C20        1       1              PASSIVE     CAP - 0603
+        C21        1       1              PASSIVE     CAP - 0603
+        C22        1       1              PASSIVE     CAP - 0603
+        C23        1       1              PASSIVE     CAP - 0603
+        C24        1       1              PASSIVE     CAP - 0603
+        C25        1       1              PASSIVE     CAP - 0603
+        C26        1       1              PASSIVE     CAP - 0603
+        C27        1       1              PASSIVE     CAP - 0603
+        C28        1       1              PASSIVE     CAP - 0603
+        C29        1       1              PASSIVE     CAP - 0603
+        C30        1       1              PASSIVE     CAP - 0603
+        C31        1       1              PASSIVE     CAP - 0603
+        C32        1       1              PASSIVE     CAP - 0603
+        C33        1       1              PASSIVE     CAP - 0603
+        C34        1       1              PASSIVE     CAP - 0603
+        C35        1       1              PASSIVE     CAP - 0603
+        C36        1       1              PASSIVE     CAP - 0603
+        C37        1       1              PASSIVE     CAP - 0603
+        C38        1       1              PASSIVE     CAP - 0603
+        C39        1       1              PASSIVE     CAP - 0603
+        C40        1       1              PASSIVE     CAP - 0603
+        C41        1       1              PASSIVE     CAP - 0603
+        C42        2       2              PASSIVE     MAL214699501E3
+        C43        1       1              PASSIVE     CAP - 0603
+        C44        2       2              PASSIVE     MAL214699501E3
+        C45        1       1              PASSIVE     CAP - 0603
+        C46        1       1              PASSIVE     CAP - 0603
+        C47        2       2              PASSIVE     MAL215099101E3
+        C48        1       1              PASSIVE     CAP - 0402
+        C49        1       1              PASSIVE     CAP - 0603
+        C50        1       1              PASSIVE     CAP - 0603
+        C51        2       2              PASSIVE     MAL215099101E3
+        C52        1       1              PASSIVE     CAP - 0402
+        C53        1       1              PASSIVE     CAP - 0402
+        C54        1       1              PASSIVE     CAP - 0402
+        C55        1       1              PASSIVE     CAP - 0402
+        C56        1       1              PASSIVE     CAP - 0402
+        C57        1       1              PASSIVE     CAP - 0402
+        C58        1       1              PASSIVE     CAP - 0402
+        C59        1       1              PASSIVE     CAP - 0402
+        C60        1       1              PASSIVE     CAP - 0402
+        C61        1       1              PASSIVE     CAP - 0402
+        C62        1       1              PASSIVE     CAP - 0402
+        C63        1       1              PASSIVE     CAP - 0402
+        C64        1       1              PASSIVE     CAP - 0402
+        C65        1       1              PASSIVE     CAP - 0402
+        C66        2       2              PASSIVE     MAL214699108E3
+        C67        1       1              PASSIVE     CAP - 0402
+        C68        1       1              PASSIVE     CAP - 0402
+        C69        1       1              PASSIVE     CAP - 0402
+        C71        1       1              PASSIVE     CAP - 0402
+        C72        1       1              PASSIVE     CAP - 0402
+        C73        1       1              PASSIVE     CAP - 0402
+        C74        1       1              PASSIVE     CAP - 0402
+        C75        1       1              PASSIVE     CAP - 0603
+        C76        1       1              PASSIVE     CAP - 0603
+        C77        1       1              PASSIVE     CAP - 0603
+        C78        1       1              PASSIVE     CAP - 0603
+        C79        1       1              PASSIVE     CAP - 0603
+        C80        1       1              PASSIVE     CAP - 0402
+        C81        1       1              PASSIVE     CAP - 0402
+        C82        1       1              PASSIVE     CAP - 0402
+        C83        1       1              PASSIVE     CAP - 0402
+        C84        1       1              PASSIVE     CAP - 0402
+        C85        1       1              PASSIVE     CAP - 0603
+        C86        1       1              PASSIVE     CAP - 0603
+        C87        1       1              PASSIVE     CAP - 0603
+        C88        2       2              PASSIVE     MAL214699108E3
+        C89        1       1              PASSIVE     CAP - 0603
+        C92        1       1              PASSIVE     CAP - 0603
+        C93        1       1              PASSIVE     CAP - 0603
+        C94        1       1              PASSIVE     CAP - 0603
+        C95        1       1              PASSIVE     CAP - 0603
+        C97        1       1              PASSIVE     CAP - 0402
+        C98        1       1              PASSIVE     CAP - 0402
+        C99        1       1              PASSIVE     CAP - 0402
+        C100       1       1              PASSIVE     CAP - 0402
+        C101       1       1              PASSIVE     CAP - 0402
+        C102       1       1              PASSIVE     CAP - 0402
+        C103       1       1              PASSIVE     CAP - 0402
+        C104       1       1              PASSIVE     CAP - 0402
+        C105       1       1              PASSIVE     CAP - 0402
+        C106       1       1              PASSIVE     CAP - 0402
+        C107       1       1              PASSIVE     CAP - 0402
+        C108       1       1              PASSIVE     CAP - 0402
+        C109       1       1              PASSIVE     CAP - 0603
+        C110       1       1              PASSIVE     CAP - 0603
+        C114       1       1              PASSIVE     CAP - 0603
+        C116       1       1              PASSIVE     CAP - 0402
+        C117       1       1              PASSIVE     CAP - 0402
+        C118       1       1              PASSIVE     CAP - 0402
+        C119       1       1              PASSIVE     CAP - 0402
+        C120       1       1              PASSIVE     CAP - 0402
+        C121       1       1              PASSIVE     CAP - 0402
+        C122       1       1              PASSIVE     CAP - 0402
+        C123       1       1              PASSIVE     CAP - 0402
+        C124       1       1              PASSIVE     CAP - 0402
+        C125       1       1              PASSIVE     CAP - 0402
+        C126       1       1              PASSIVE     CAP - 0402
+        C127       1       1              PASSIVE     CAP - 0402
+        C128       1       1              PASSIVE     CAP - 0402
+        C129       1       1              PASSIVE     CAP - 0402
+        C130       1       1              PASSIVE     CAP - 0402
+        C131       1       1              PASSIVE     CAP - 0402
+        C132       1       1              PASSIVE     CAP - 0402
+        C133       1       1              PASSIVE     CAP - 0603
+        C134       1       1              PASSIVE     CAP - 0603
+        C135       1       1              PASSIVE     CAP - 0603
+        C136       1       1              PASSIVE     CAP - 0603
+        C137       1       1              PASSIVE     CAP - 0603
+        C138       1       1              PASSIVE     CAP - 0603
+        C139       1       1              PASSIVE     CAP - 0603
+        C141       1       1              PASSIVE     CAP - 0603
+        C142       1       1              PASSIVE     CAP - 0603
+        C143       1       1              PASSIVE     CAP - 0603
+        C144       1       1              PASSIVE     CAP - 0603
+        C145       1       1              PASSIVE     CAP - 0603
+        C146       1       1              PASSIVE     CAP - 0603
+        C147       1       1              PASSIVE     CAP - 0603
+        C148       1       1              PASSIVE     CAP - 0603
+        C149       1       1              PASSIVE     CAP - 0603
+        C150       1       1              PASSIVE     CAP - 0603
+        C151       1       1              PASSIVE     CAP - 0603
+        C152       1       1              PASSIVE     CAP - 0603
+        C153       1       1              PASSIVE     CAP - 0603
+        C154       1       1              PASSIVE     CAP - 0402
+        C155       1       1              PASSIVE     CAP - 0402
+        C156       1       1              PASSIVE     CAP - 0402
+        C157       1       1              PASSIVE     CAP - 0402
+        C158       1       1              PASSIVE     CAP - 0402
+        C159       1       1              PASSIVE     CAP - 0402
+        C160       1       1              PASSIVE     CAP - 0402
+        C161       1       1              PASSIVE     CAP - 0402
+        C162       1       1              PASSIVE     CAP - 0402
+        C163       1       1              PASSIVE     CAP - 0402
+        C164       1       1              PASSIVE     CAP - 0402
+        C165       1       1              PASSIVE     CAP - 0402
+        C166       1       1              PASSIVE     CAP - 0402
+        C167       1       1              PASSIVE     CAP - 0402
+        C168       1       1              PASSIVE     CAP - 0402
+        C169       1       1              PASSIVE     CAP - 0402
+        C170       1       1              PASSIVE     CAP - 0402
+        C171       1       1              PASSIVE     CAP - 0402
+        C172       1       1              PASSIVE     CAP - 0402
+        C173       1       1              PASSIVE     CAP - 0402
+        C174       1       1              PASSIVE     CAP - 0402
+        C175       1       1              PASSIVE     CAP - 0402
+        C176       1       1              PASSIVE     CAP - 0402
+        C177       1       1              PASSIVE     CAP - 0402
+        C178       1       1              PASSIVE     CAP - 0402
+        C179       1       1              PASSIVE     CAP - 0402
+        C180       1       1              PASSIVE     CAP - 0402
+        C181       1       1              PASSIVE     CAP - 0402
+        C182       1       1              PASSIVE     CAP - 0402
+        C183       1       1              PASSIVE     CAP - 0402
+        C184       1       1              PASSIVE     CAP - 0402
+        C185       1       1              PASSIVE     CAP - 0402
+        C186       1       1              PASSIVE     CAP - 0402
+        C187       1       1              PASSIVE     CAP - 0402
+        C188       1       1              PASSIVE     CAP - 0402
+        C189       1       1              PASSIVE     CAP - 0402
+        C190       1       1              PASSIVE     CAP - 0402
+        C191       1       1              PASSIVE     CAP - 0402
+        C192       1       1              PASSIVE     CAP - 0402
+        C193       1       1              PASSIVE     CAP - 0402
+        C194       1       1              PASSIVE     CAP - 0402
+        C195       1       1              PASSIVE     CAP - 0402
+        C196       1       1              PASSIVE     CAP - 0402
+        C197       1       1              PASSIVE     CAP - 0402
+        C198       1       1              PASSIVE     CAP - 0402
+        C199       1       1              PASSIVE     CAP - 0402
+        C200       1       1              PASSIVE     CAP - 0402
+        C201       1       1              PASSIVE     CAP - 0402
+        C202       1       1              PASSIVE     CAP - 0402
+        C203       1       1              PASSIVE     CAP - 0402
+        C204       1       1              PASSIVE     CAP - 0402
+        C205       1       1              PASSIVE     CAP - 0402
+        D1         2       i/o            PASSIVE     TPD1E1B04DPYR
+        D2         2       i/o            PASSIVE     TPD1E1B04DPYR
+        D4         1       A              PASSIVE     MBRB4030T4G
+        D4         3       3              PASSIVE     MBRB4030T4G
+        D5         K       K              PASSIVE     SML-311UTT86
+        D6         2       i/o            PASSIVE     TPD1E1B04DPYR
+        D7         2       i/o            PASSIVE     TPD1E1B04DPYR
+        D9         2       2              PASSIVE     SMBJ24CA
+        D10        2       2              PASSIVE     SMBJ24CA
+        D11        2       2              PASSIVE     SMBJ24CA
+        D12        2       2              PASSIVE     SMBJ24CA
+        D13        K       K              PASSIVE     SML-311DTT86
+        D14        K       K              PASSIVE     SML-311DTT86
+        D15        K       K              PASSIVE     SML-311DTT86
+        D16        K       K              PASSIVE     SML-311DTT86
+        ISO1       9       GND2           PASSIVE     ADUM3160BRWZ-RL
+        ISO1       15      GND2           PASSIVE     ADUM3160BRWZ-RL
+        J1         2       2              PASSIVE     5-1814400-1
+        J1         3       3              PASSIVE     5-1814400-1
+        J1         4       4              PASSIVE     5-1814400-1
+        J1         5       5              PASSIVE     5-1814400-1
+        J2         2       2              PASSIVE     5-1814400-1
+        J2         3       3              PASSIVE     5-1814400-1
+        J2         4       4              PASSIVE     5-1814400-1
+        J2         5       5              PASSIVE     5-1814400-1
+        J3         4       4              PASSIVE     0039300060
+        J3         5       5              PASSIVE     0039300060
+        J3         6       6              PASSIVE     0039300060
+        J4         2       2              PASSIVE     5-1814400-1
+        J4         3       3              PASSIVE     5-1814400-1
+        J4         4       4              PASSIVE     5-1814400-1
+        J4         5       5              PASSIVE     5-1814400-1
+        J5         2       2              PASSIVE     5-1814400-1
+        J5         3       3              PASSIVE     5-1814400-1
+        J5         4       4              PASSIVE     5-1814400-1
+        J5         5       5              PASSIVE     5-1814400-1
+        L1         1       1              PASSIVE     FER - 1206
+        M1         1       GND            PASSIVE     410-357-B
+        M1         7       GND            PASSIVE     410-357-B
+        M1         14      GND            PASSIVE     410-357-B
+        R6         1       1              PASSIVE     RES - 0402
+        R12        1       1              PASSIVE     RES - 0603
+        R14        1       1              PASSIVE     RES - 0603
+        R15        1       1              PASSIVE     RES - 0603
+        R18        1       1              PASSIVE     RES - 0603
+        R30        1       1              PASSIVE     RES - 0603
+        R32        1       1              PASSIVE     RES - 0603
+        R33        1       1              PASSIVE     RES - 0603
+        R55        1       1              PASSIVE     RES - 0402
+        R56        2       2              PASSIVE     RES - 0402
+        R61        1       1              PASSIVE     RES - 0402
+        R65        1       1              PASSIVE     RES - 0603
+        R68        1       1              PASSIVE     RES - 0603
+        R69        1       1              PASSIVE     RES - 1206
+        R71        1       1              PASSIVE     RES - 0603
+        R72        1       1              PASSIVE     RES - 0603
+        R73        1       1              PASSIVE     RES - 0603
+        R74        1       1              PASSIVE     RES - 1206
+        R79        2       2              PASSIVE     RES - 0603
+        R80        1       1              PASSIVE     RES - 0603
+        R81        1       1              PASSIVE     RES - 0603
+        R86        2       2              PASSIVE     RES - 0603
+        R87        1       1              PASSIVE     RES - 0603
+        R88        1       1              PASSIVE     RES - 0603
+        R90        1       1              PASSIVE     RES - 0603
+        R95        1       1              PASSIVE     RES - 0603
+        R96        2       2              PASSIVE     RES - 0603
+        R103       1       1              PASSIVE     RES - 0603
+        R104       2       2              PASSIVE     RES - 0603
+        R107       1       1              PASSIVE     RES - 0603
+        R108       1       1              PASSIVE     RES - 0603
+        R111       1       1              PASSIVE     RES - 0603
+        R113       1       1              PASSIVE     RES - 0603
+        SW1        2       2              PASSIVE     B3SN-3012P
+        SW1        3       3              PASSIVE     B3SN-3012P
+        U1         1       GND            PASSIVE     PTN78020WAH
+        U1         7       GND            PASSIVE     PTN78020WAH
+        U2         4       PGND           PASSIVE     TPS51200DRCT
+        U2         8       GND            PASSIVE     TPS51200DRCT
+        U2         11      EP             PASSIVE     TPS51200DRCT
+        U3         1       SmartSync      PASSIVE     PTH08T241WAZ
+        U3         3       GND            PASSIVE     PTH08T241WAZ
+        U3         4       GND            PASSIVE     PTH08T241WAZ
+        U3         7       Sense-         PASSIVE     PTH08T241WAZ
+        U4         4       PGND           PASSIVE     TPS51200DRCT
+        U4         8       GND            PASSIVE     TPS51200DRCT
+        U4         11      EP             PASSIVE     TPS51200DRCT
+        U5         6       3P2V           PASSIVE     TPS7A4701RGWR
+        U5         7       GND            PASSIVE     TPS7A4701RGWR
+        U5         12      0P1V           PASSIVE     TPS7A4701RGWR
+        U5         E1      PAD            PASSIVE     TPS7A4701RGWR
+        U6         7       GND            PASSIVE     TPS7A4701RGWR
+        U6         8       1P6V           PASSIVE     TPS7A4701RGWR
+        U6         11      0P2V           PASSIVE     TPS7A4701RGWR
+        U6         E1      PAD            PASSIVE     TPS7A4701RGWR
+        U7         1       GND            PASSIVE     KSZ8091MNXCA
+        U7         33      GND            PASSIVE     KSZ8091MNXCA
+        U7         34      GND            PASSIVE     KSZ8091MNXCA
+        U7         35      GND            PASSIVE     KSZ8091MNXCA
+        U7         36      GND            PASSIVE     KSZ8091MNXCA
+        U7         37      GND            PASSIVE     KSZ8091MNXCA
+        U7         38      GND            PASSIVE     KSZ8091MNXCA
+        U7         39      GND            PASSIVE     KSZ8091MNXCA
+        U7         40      GND            PASSIVE     KSZ8091MNXCA
+        U7         41      GND            PASSIVE     KSZ8091MNXCA
+        U7         42      GND            PASSIVE     KSZ8091MNXCA
+        U8         A1      GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         A26     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         AB2     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         AB12    GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         AB16    GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         AB20    GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         AB25    GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         AC8     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         AD16    IO_L13P_M1_2   PASSIVE     XC6SLX100-3FGG676C
+        U8         AD23    SUSPEND        PASSIVE     XC6SLX100-3FGG676C
+        U8         AE6     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         AE10    GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         AE14    GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         AE18    GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         AE22    GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         AF1     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         AF26    GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         B5      GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         B9      GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         B13     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         B17     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         B21     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         D4      GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         E7      GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         E11     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         E15     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         E22     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         F2      GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         F19     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         F25     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         H4      GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         H11     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         H23     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         J8      GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         J19     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         K2      GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         K16     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         K25     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         L11     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         L13     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         L15     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         M5      GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         M12     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         M14     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         M16     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         M22     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         N11     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         N13     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         N15     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         P2      GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         P12     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         P14     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         P16     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         P19     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         P25     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         R8      GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         R11     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         R13     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         R15     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         T5      GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         T12     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         T14     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         T16     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         T21     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         U11     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         V2      GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         V25     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         W15     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         W20     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         Y4      GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         Y7      GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         Y11     GND            PASSIVE     XC6SLX100-3FGG676C
+        U8         Y23     GND            PASSIVE     XC6SLX100-3FGG676C
+        U9         A9      VSS            PASSIVE     MT41J128M16JT-125
+        U9         B1      VSSQ           PASSIVE     MT41J128M16JT-125
+        U9         B3      VSS            PASSIVE     MT41J128M16JT-125
+        U9         B9      VSSQ           PASSIVE     MT41J128M16JT-125
+        U9         D1      VSSQ           PASSIVE     MT41J128M16JT-125
+        U9         D8      VSSQ           PASSIVE     MT41J128M16JT-125
+        U9         E1      VSS            PASSIVE     MT41J128M16JT-125
+        U9         E2      VSSQ           PASSIVE     MT41J128M16JT-125
+        U9         E8      VSSQ           PASSIVE     MT41J128M16JT-125
+        U9         F9      VSSQ           PASSIVE     MT41J128M16JT-125
+        U9         G1      VSSQ           PASSIVE     MT41J128M16JT-125
+        U9         G8      VSS            PASSIVE     MT41J128M16JT-125
+        U9         G9      VSSQ           PASSIVE     MT41J128M16JT-125
+        U9         J2      VSS            PASSIVE     MT41J128M16JT-125
+        U9         J8      VSS            PASSIVE     MT41J128M16JT-125
+        U9         L2      \CS            PASSIVE     MT41J128M16JT-125
+        U9         M1      VSS            PASSIVE     MT41J128M16JT-125
+        U9         M9      VSS            PASSIVE     MT41J128M16JT-125
+        U9         P1      VSS            PASSIVE     MT41J128M16JT-125
+        U9         P9      VSS            PASSIVE     MT41J128M16JT-125
+        U9         T1      VSS            PASSIVE     MT41J128M16JT-125
+        U9         T9      VSS            PASSIVE     MT41J128M16JT-125
+        U10        2       SEC_REF-       PASSIVE     CDCE62005RGZT
+        U10        3       SEC_REF+       PASSIVE     CDCE62005RGZT
+        U10        36      GND_VCO        PASSIVE     CDCE62005RGZT
+        U10        43      AUX_IN         PASSIVE     CDCE62005RGZT
+        U10        PAD     GND            PASSIVE     CDCE62005RGZT
+        U11        6       3P2V           PASSIVE     TPS7A4701RGWR
+        U11        7       GND            PASSIVE     TPS7A4701RGWR
+        U11        8       1P6V           PASSIVE     TPS7A4701RGWR
+        U11        11      0P2V           PASSIVE     TPS7A4701RGWR
+        U11        17      NC             PASSIVE     TPS7A4701RGWR
+        U11        18      NC             PASSIVE     TPS7A4701RGWR
+        U11        19      NC             PASSIVE     TPS7A4701RGWR
+        U11        E1      PAD            PASSIVE     TPS7A4701RGWR
+        U12        4       GND            POWER       AT25DF321A-MH-T
+        U13        7       GND            PASSIVE     DRV8811PWPR
+        U13        21      GND            PASSIVE     DRV8811PWPR
+        U13        26      E\N\A\B\L\E\   PASSIVE     DRV8811PWPR
+        U13        PAD     GND            PASSIVE     DRV8811PWPR
+        U14        5       CVSS           PASSIVE     AD9146BCPZ
+        U14        41      AVSS           PASSIVE     AD9146BCPZ
+        U14        44      AVSS           PASSIVE     AD9146BCPZ
+        U14        PAD     AVSS           PASSIVE     AD9146BCPZ
+        U16        17      AGND           PASSIVE     ADS62P48IRGCT
+        U16        18      AGND           PASSIVE     ADS62P48IRGCT
+        U16        21      AGND           PASSIVE     ADS62P48IRGCT
+        U16        24      AGND           PASSIVE     ADS62P48IRGCT
+        U16        27      AGND           PASSIVE     ADS62P48IRGCT
+        U16        28      AGND           PASSIVE     ADS62P48IRGCT
+        U16        31      AGND           PASSIVE     ADS62P48IRGCT
+        U16        32      AGND           PASSIVE     ADS62P48IRGCT
+        U16        39      DRGND          PASSIVE     ADS62P48IRGCT
+        U16        49      DRGND          PASSIVE     ADS62P48IRGCT
+        U16        59      DRGND          PASSIVE     ADS62P48IRGCT
+        U16        PAD     DRGND          PASSIVE     ADS62P48IRGCT
+        U18        10      GND            PASSIVE     LMZ34002RKGR
+        U18        11      GND            PASSIVE     LMZ34002RKGR
+        U18        12      GND            PASSIVE     LMZ34002RKGR
+        U18        13      GND            PASSIVE     LMZ34002RKGR
+        U18        14      GND            PASSIVE     LMZ34002RKGR
+        U18        15      GND            PASSIVE     LMZ34002RKGR
+        U18        39      GND            PASSIVE     LMZ34002RKGR
+        U19        7       GND            PASSIVE     TPS7A3301RGWR
+        U19        17      NC             PASSIVE     TPS7A3301RGWR
+        U19        18      NC             PASSIVE     TPS7A3301RGWR
+        U19        19      NC             PASSIVE     TPS7A3301RGWR
+        U19        21      EP             PASSIVE     TPS7A3301RGWR
+        U20        7       GND            PASSIVE     TPS7A4701RGWR
+        U20        9       0P8V           PASSIVE     TPS7A4701RGWR
+        U20        10      0P4V           PASSIVE     TPS7A4701RGWR
+        U20        11      0P2V           PASSIVE     TPS7A4701RGWR
+        U20        12      0P1V           PASSIVE     TPS7A4701RGWR
+        U20        17      NC             PASSIVE     TPS7A4701RGWR
+        U20        18      NC             PASSIVE     TPS7A4701RGWR
+        U20        19      NC             PASSIVE     TPS7A4701RGWR
+        U20        E1      PAD            PASSIVE     TPS7A4701RGWR
+        U21        7       GND            PASSIVE     TPS7A4701RGWR
+        U21        9       0P8V           PASSIVE     TPS7A4701RGWR
+        U21        10      0P4V           PASSIVE     TPS7A4701RGWR
+        U21        17      NC             PASSIVE     TPS7A4701RGWR
+        U21        18      NC             PASSIVE     TPS7A4701RGWR
+        U21        19      NC             PASSIVE     TPS7A4701RGWR
+        U21        E1      PAD            PASSIVE     TPS7A4701RGWR
+        Y1         2       GND            PASSIVE     ASDMB-25.000MHZ-LC-T
+        Y2         3       GND            PASSIVE     590BD-BDG
+
+[00253] FPGA_R\S\T\
+        R31        1       1              PASSIVE     RES - 0603
+        SW1        1       1              PASSIVE     B3SN-3012P
+        SW1        4       4              PASSIVE     B3SN-3012P
+
+[00252] Flash_MOSI
+        U8         AF20    IO_L3N_MOSI_CSIPASSIVE     XC6SLX100-3FGG676C
+        U12        5       SIO            I/O         AT25DF321A-MH-T
+
+[00251] Flash_MISO
+        U8         AD20    IO_L3P_D0_DIN_MPASSIVE     XC6SLX100-3FGG676C
+        U12        2       SOI            I/O         AT25DF321A-MH-T
+
+[00250] Flash_CSO
+        R64        1       1              PASSIVE     RES - 0603
+        U8         AF4     IO_L65N_CSO_B_2PASSIVE     XC6SLX100-3FGG676C
+        U12        1       C\S\           INPUT       AT25DF321A-MH-T
+
+[00249] Flash_CLK
+        R63        1       1              PASSIVE     RES - 0603
+        R65        2       2              PASSIVE     RES - 0603
+        U8         AD22    IO_L1P_CCLK_2  PASSIVE     XC6SLX100-3FGG676C
+        U12        6       SCK            INPUT       AT25DF321A-MH-T
+
+[00248] ETH_TXER
+        U7         31      TXER           PASSIVE     KSZ8091MNXCA
+
+[00247] ETH_TXEN
+        U7         23      TXEN           PASSIVE     KSZ8091MNXCA
+
+[00246] ETH_TXD3
+        U7         27      TXD3           PASSIVE     KSZ8091MNXCA
+
+[00245] ETH_TXD2
+        U7         26      TXD2           PASSIVE     KSZ8091MNXCA
+
+[00244] ETH_TXD1
+        U7         25      TXD1           PASSIVE     KSZ8091MNXCA
+
+[00243] ETH_TXD0
+        U7         24      TXD0           PASSIVE     KSZ8091MNXCA
+
+[00242] ETH_TXC
+        R29        2       2              PASSIVE     RES - 0603
+
+[00241] ETH_TD_P
+        T1         1       TD+            PASSIVE     H1102NLT
+        U7         7       TXP            PASSIVE     KSZ8091MNXCA
+
+[00240] ETH_TD_N
+        T1         3       TD-            PASSIVE     H1102NLT
+        U7         6       TXM            PASSIVE     KSZ8091MNXCA
+
+[00239] ETH_RXER
+        R22        2       2              PASSIVE     RES - 0603
+
+[00238] ETH_RXDV
+        R21        2       2              PASSIVE     RES - 0603
+
+[00237] ETH_RXD3
+        R26        2       2              PASSIVE     RES - 0603
+
+[00236] ETH_RXD2
+        R25        2       2              PASSIVE     RES - 0603
+
+[00235] ETH_RXD1
+        R24        2       2              PASSIVE     RES - 0603
+
+[00234] ETH_RXD0
+        R23        2       2              PASSIVE     RES - 0603
+
+[00233] ETH_RXC
+        R28        2       2              PASSIVE     RES - 0603
+
+[00232] ETH_RD_P
+        R2         2       2              PASSIVE     RES - 0603
+        T1         6       RD+            PASSIVE     H1102NLT
+        U7         5       RXP            PASSIVE     KSZ8091MNXCA
+
+[00231] ETH_RD_N
+        R2         1       1              PASSIVE     RES - 0603
+        T1         8       RD-            PASSIVE     H1102NLT
+        U7         4       RXM            PASSIVE     KSZ8091MNXCA
+
+[00230] ETH_R\S\T\
+        U7         32      \RST           PASSIVE     KSZ8091MNXCA
+
+[00229] ETH_MDIO
+        R19        1       1              PASSIVE     RES - 0603
+        U7         11      MDIO           PASSIVE     KSZ8091MNXCA
+
+[00228] ETH_LED_OUT
+        R27        1       1              PASSIVE     RES - 0603
+
+[00227] ETH_LED_2
+        J6         11      LED2_K         PASSIVE     RJHSE-5385
+
+[00226] ETH_LED_1
+        J6         9       LED1_K         PASSIVE     RJHSE-5385
+
+[00225] ETH_INTRP
+        R20        1       1              PASSIVE     RES - 0603
+        U7         21      INTRP/PME_N2/NAPASSIVE     KSZ8091MNXCA
+
+[00224] DVR_USM1
+
+[00223] DVR_USM0
+
+[00222] DVR_STEP
+
+[00221] DVR_SR
+
+[00220] DVR_HOME
+
+[00219] DVR_DIR
+
+[00218] DRV_USM1
+        U13        12      USM1           PASSIVE     DRV8811PWPR
+
+[00217] DRV_USM0
+        U13        13      USM0           PASSIVE     DRV8811PWPR
+
+[00216] DRV_STEP
+        U13        19      STEP           PASSIVE     DRV8811PWPR
+
+[00215] DRV_S\R\
+        U13        16      S\R\           PASSIVE     DRV8811PWPR
+
+[00214] DRV_HOME
+        U13        2       HOME           PASSIVE     DRV8811PWPR
+
+[00213] DRV_DIR
+        U13        3       DIR            PASSIVE     DRV8811PWPR
+
+[00212] DRV_BOUT_2
+        D9         1       1              PASSIVE     SMBJ24CA
+        J8         4       4              PASSIVE     OSTTC040162
+        U13        18      BOUT2          PASSIVE     DRV8811PWPR
+
+[00211] DRV_BOUT_1
+        D10        1       1              PASSIVE     SMBJ24CA
+        J8         3       3              PASSIVE     OSTTC040162
+        U13        11      BOUT1          PASSIVE     DRV8811PWPR
+
+[00210] DRV_BOUT2
+
+[00209] DRV_BOUT1
+
+[00208] DRV_AOUT_2
+        D11        1       1              PASSIVE     SMBJ24CA
+        J8         2       2              PASSIVE     OSTTC040162
+        U13        25      AOUT2          PASSIVE     DRV8811PWPR
+
+[00207] DRV_AOUT_1
+        D12        1       1              PASSIVE     SMBJ24CA
+        J8         1       1              PASSIVE     OSTTC040162
+        U13        4       AOUT1          PASSIVE     DRV8811PWPR
+
+[00206] DRV_AOUT2
+
+[00205] DRV_AOUT1
+
+[00204] DEL_4
+        R37        2       2              PASSIVE     RES - 0603
+
+[00203] DEL_3
+        R36        2       2              PASSIVE     RES - 0603
+
+[00202] DEL_2
+        R35        2       2              PASSIVE     RES - 0603
+
+[00201] DEL_1
+        R34        2       2              PASSIVE     RES - 0603
+
+[00200] DDR3_WE_N
+        R59        1       1              PASSIVE     RES - 0402
+        U8         P5      IO_L50P_M3WE_3 PASSIVE     XC6SLX100-3FGG676C
+        U9         L3      \WE            PASSIVE     MT41J128M16JT-125
+
+[00199] DDR3_VTT
+        R57        2       2              PASSIVE     RES - 0402
+        R58        2       2              PASSIVE     RES - 0402
+        R59        2       2              PASSIVE     RES - 0402
+        R60        2       2              PASSIVE     RES - 0402
+
+[00198] DDR3_UDQS_P
+        U8         AC2     IO_L34P_M3UDQS_PASSIVE     XC6SLX100-3FGG676C
+        U9         C7      UDQS           PASSIVE     MT41J128M16JT-125
+
+[00197] DDR3_UDQS_N
+        U8         AC1     IO_L34N_M3UDQSNPASSIVE     XC6SLX100-3FGG676C
+        U9         B7      \UDQS          PASSIVE     MT41J128M16JT-125
+
+[00196] DDR3_UDM
+        U8         V4      IO_L42P_GCLK25_PASSIVE     XC6SLX100-3FGG676C
+        U9         D3      UDM            PASSIVE     MT41J128M16JT-125
+
+[00195] DDR3_RESET_N
+        U8         L4      IO_L54P_M3RESETPASSIVE     XC6SLX100-3FGG676C
+
+[00194] DDR3_RAS_N
+        R57        1       1              PASSIVE     RES - 0402
+        U8         N8      IO_L43P_GCLK23_PASSIVE     XC6SLX100-3FGG676C
+        U9         J3      \RAS           PASSIVE     MT41J128M16JT-125
+
+[00193] DDR3_ODT
+        R60        1       1              PASSIVE     RES - 0402
+        U8         P6      IO_L45N_M3ODT_3PASSIVE     XC6SLX100-3FGG676C
+        U9         K1      ODT            PASSIVE     MT41J128M16JT-125
+
+[00192] DDR3_LDQS_P
+        U9         F3      LDQS           PASSIVE     MT41J128M16JT-125
+
+[00191] DDR3_LDQS_N
+        U9         G3      \LDQS          PASSIVE     MT41J128M16JT-125
+
+[00190] DDR3_LDM
+        U9         E7      LDM            PASSIVE     MT41J128M16JT-125
+
+[00189] DDR3_DQS_P
+        U8         V3      IO_L39P_M3LDQS_PASSIVE     XC6SLX100-3FGG676C
+
+[00188] DDR3_DQS_N
+        U8         V1      IO_L39N_M3LDQSNPASSIVE     XC6SLX100-3FGG676C
+
+[00184] DDR3_DQ16
+
+[00185] DDR3_DQ16
+
+[00182] DDR3_DQ15
+        U8         AB1     IO_L32N_M3DQ15_PASSIVE     XC6SLX100-3FGG676C
+        U9         A3      DQ15           PASSIVE     MT41J128M16JT-125
+
+[00183] DDR3_DQ15
+
+[00180] DDR3_DQ14
+        U8         AB3     IO_L32P_M3DQ14_PASSIVE     XC6SLX100-3FGG676C
+        U9         B8      DQ14           PASSIVE     MT41J128M16JT-125
+
+[00181] DDR3_DQ14
+
+[00178] DDR3_DQ13
+        U8         AD1     IO_L33N_M3DQ13_PASSIVE     XC6SLX100-3FGG676C
+        U9         A2      DQ13           PASSIVE     MT41J128M16JT-125
+
+[00179] DDR3_DQ13
+
+[00176] DDR3_DQ12
+        U8         AD3     IO_L33P_M3DQ12_PASSIVE     XC6SLX100-3FGG676C
+        U9         A7      DQ12           PASSIVE     MT41J128M16JT-125
+
+[00177] DDR3_DQ12
+
+[00174] DDR3_DQ11
+        U8         AE1     IO_L35N_M3DQ11_PASSIVE     XC6SLX100-3FGG676C
+        U9         C2      DQ11           PASSIVE     MT41J128M16JT-125
+
+[00175] DDR3_DQ11
+
+[00172] DDR3_DQ10
+        U8         AE2     IO_L35P_M3DQ10_PASSIVE     XC6SLX100-3FGG676C
+        U9         C8      DQ10           PASSIVE     MT41J128M16JT-125
+
+[00173] DDR3_DQ10
+
+[00170] DDR3_DQ9
+        U8         AA1     IO_L36N_M3DQ9_3PASSIVE     XC6SLX100-3FGG676C
+        U9         C3      DQ9            PASSIVE     MT41J128M16JT-125
+
+[00171] DDR3_DQ9
+
+[00168] DDR3_DQ8
+        U8         AA2     IO_L36P_M3DQ8_3PASSIVE     XC6SLX100-3FGG676C
+        U9         D7      DQ8            PASSIVE     MT41J128M16JT-125
+
+[00169] DDR3_DQ8
+
+[00166] DDR3_DQ7
+        U8         U1      IO_L40N_M3DQ7_3PASSIVE     XC6SLX100-3FGG676C
+        U9         H7      DQ7            PASSIVE     MT41J128M16JT-125
+
+[00167] DDR3_DQ7
+
+[00164] DDR3_DQ6
+        U8         U2      IO_L40P_M3DQ6_3PASSIVE     XC6SLX100-3FGG676C
+        U9         G2      DQ6            PASSIVE     MT41J128M16JT-125
+
+[00165] DDR3_DQ6
+
+[00162] DDR3_DQ5
+        U8         T1      IO_L41N_GCLK26_PASSIVE     XC6SLX100-3FGG676C
+        U9         H8      DQ5            PASSIVE     MT41J128M16JT-125
+
+[00163] DDR3_DQ5
+
+[00160] DDR3_DQ4
+        U8         T3      IO_L41P_GCLK27_PASSIVE     XC6SLX100-3FGG676C
+        U9         H3      DQ4            PASSIVE     MT41J128M16JT-125
+
+[00161] DDR3_DQ4
+
+[00158] DDR3_DQ3
+        U8         W1      IO_L38N_M3DQ3_3PASSIVE     XC6SLX100-3FGG676C
+        U9         F8      DQ3            PASSIVE     MT41J128M16JT-125
+
+[00159] DDR3_DQ3
+
+[00156] DDR3_DQ2
+        U8         W2      IO_L38P_M3DQ2_3PASSIVE     XC6SLX100-3FGG676C
+        U9         F2      DQ2            PASSIVE     MT41J128M16JT-125
+
+[00157] DDR3_DQ2
+
+[00154] DDR3_DQ1
+        U8         Y1      IO_L37N_M3DQ1_3PASSIVE     XC6SLX100-3FGG676C
+        U9         F7      DQ1            PASSIVE     MT41J128M16JT-125
+
+[00155] DDR3_DQ1
+
+[00152] DDR3_DQ0
+        U8         Y3      IO_L37P_M3DQ0_3PASSIVE     XC6SLX100-3FGG676C
+        U9         E3      DQ0            PASSIVE     MT41J128M16JT-125
+
+[00153] DDR3_DQ0
+
+[00151] DDR3_DM
+        U8         W3      IO_L42N_GCLK24_PASSIVE     XC6SLX100-3FGG676C
+
+[00150] DDR3_CKE
+        U8         M9      IO_L53P_M3CKE_3PASSIVE     XC6SLX100-3FGG676C
+
+[00149] DDR3_CK_P
+        R55        2       2              PASSIVE     RES - 0402
+        U8         R4      IO_L46P_M3CLK_3PASSIVE     XC6SLX100-3FGG676C
+        U9         J7      CK             PASSIVE     MT41J128M16JT-125
+
+[00148] DDR3_CK_N
+        R56        1       1              PASSIVE     RES - 0402
+        U8         R3      IO_L46N_M3CLKN_PASSIVE     XC6SLX100-3FGG676C
+        U9         K7      \CK            PASSIVE     MT41J128M16JT-125
+
+[00147] DDR3_CAS_N
+        R58        1       1              PASSIVE     RES - 0402
+        U8         P8      IO_L43N_GCLK22_PASSIVE     XC6SLX100-3FGG676C
+        U9         K3      \CAS           PASSIVE     MT41J128M16JT-125
+
+[00146] DDR3_BA2
+        R54        1       1              PASSIVE     RES - 0402
+        U8         N5      IO_L50N_M3BA2_3PASSIVE     XC6SLX100-3FGG676C
+        U9         M3      BA2            PASSIVE     MT41J128M16JT-125
+
+[00145] DDR3_BA1
+        R53        1       1              PASSIVE     RES - 0402
+        U8         P1      IO_L48N_M3BA1_3PASSIVE     XC6SLX100-3FGG676C
+        U9         N8      BA1            PASSIVE     MT41J128M16JT-125
+
+[00144] DDR3_BA0
+        R52        1       1              PASSIVE     RES - 0402
+        U8         P3      IO_L48P_M3BA0_3PASSIVE     XC6SLX100-3FGG676C
+        U9         M2      BA0            PASSIVE     MT41J128M16JT-125
+
+[00140] DDR3_A13
+        R51        1       1              PASSIVE     RES - 0402
+        U8         M6      IO_L55P_M3A13_3PASSIVE     XC6SLX100-3FGG676C
+        U9         T3      A13            PASSIVE     MT41J128M16JT-125
+
+[00141] DDR3_A13
+
+[00138] DDR3_A12
+        R50        1       1              PASSIVE     RES - 0402
+        U8         M8      IO_L53N_M3A12_3PASSIVE     XC6SLX100-3FGG676C
+        U9         N7      A12/BC#        PASSIVE     MT41J128M16JT-125
+
+[00139] DDR3_A12
+
+[00136] DDR3_A11
+        R49        1       1              PASSIVE     RES - 0402
+        U8         L3      IO_L54N_M3A11_3PASSIVE     XC6SLX100-3FGG676C
+        U9         R7      A11            PASSIVE     MT41J128M16JT-125
+
+[00137] DDR3_A11
+
+[00134] DDR3_A10
+        R48        1       1              PASSIVE     RES - 0402
+        U8         M10     IO_L51P_M3A10_3PASSIVE     XC6SLX100-3FGG676C
+        U9         L7      A10/AP         PASSIVE     MT41J128M16JT-125
+
+[00135] DDR3_A10
+
+[00132] DDR3_A9
+        R47        1       1              PASSIVE     RES - 0402
+        U8         N3      IO_L52N_M3A9_3 PASSIVE     XC6SLX100-3FGG676C
+        U9         R3      A9             PASSIVE     MT41J128M16JT-125
+
+[00133] DDR3_A9
+
+[00130] DDR3_A8
+        R46        1       1              PASSIVE     RES - 0402
+        U8         N4      IO_L52P_M3A8_3 PASSIVE     XC6SLX100-3FGG676C
+        U9         T8      A8             PASSIVE     MT41J128M16JT-125
+
+[00131] DDR3_A8
+
+[00128] DDR3_A7
+        R45        1       1              PASSIVE     RES - 0402
+        U8         P10     IO_L49P_M3A7_3 PASSIVE     XC6SLX100-3FGG676C
+        U9         R2      A7             PASSIVE     MT41J128M16JT-125
+
+[00129] DDR3_A7
+
+[00126] DDR3_A6
+        R44        1       1              PASSIVE     RES - 0402
+        U8         R1      IO_L44N_GCLK20_PASSIVE     XC6SLX100-3FGG676C
+        U9         R8      A6             PASSIVE     MT41J128M16JT-125
+
+[00127] DDR3_A6
+
+[00124] DDR3_A5
+        R43        1       1              PASSIVE     RES - 0402
+        U8         R2      IO_L44P_GCLK21_PASSIVE     XC6SLX100-3FGG676C
+        U9         P2      A5             PASSIVE     MT41J128M16JT-125
+
+[00125] DDR3_A5
+
+[00122] DDR3_A4
+        R42        1       1              PASSIVE     RES - 0402
+        U8         N9      IO_L51N_M3A4_3 PASSIVE     XC6SLX100-3FGG676C
+        U9         P8      A4             PASSIVE     MT41J128M16JT-125
+
+[00123] DDR3_A4
+
+[00120] DDR3_A3
+        R41        1       1              PASSIVE     RES - 0402
+        U8         P7      IO_L45P_M3A3_3 PASSIVE     XC6SLX100-3FGG676C
+        U9         N2      A3             PASSIVE     MT41J128M16JT-125
+
+[00121] DDR3_A3
+
+[00118] DDR3_A2
+        R40        1       1              PASSIVE     RES - 0402
+        U8         R9      IO_L49N_M3A2_3 PASSIVE     XC6SLX100-3FGG676C
+        U9         P3      A2             PASSIVE     MT41J128M16JT-125
+
+[00119] DDR3_A2
+
+[00116] DDR3_A1
+        R39        1       1              PASSIVE     RES - 0402
+        U8         N6      IO_L47N_M3A1_3 PASSIVE     XC6SLX100-3FGG676C
+        U9         P7      A1             PASSIVE     MT41J128M16JT-125
+
+[00117] DDR3_A1
+
+[00114] DDR3_A0
+        R38        1       1              PASSIVE     RES - 0402
+        U8         N7      IO_L47P_M3A0_3 PASSIVE     XC6SLX100-3FGG676C
+        U9         N3      A0             PASSIVE     MT41J128M16JT-125
+
+[00115] DDR3_A0
+
+[00113] DDR3_1V5
+        C16        2       2              PASSIVE     CAP - 0603
+        C17        2       2              PASSIVE     CAP - 0603
+        C18        2       2              PASSIVE     CAP - 0603
+        C53        2       2              PASSIVE     CAP - 0402
+        C54        2       2              PASSIVE     CAP - 0402
+        C55        2       2              PASSIVE     CAP - 0402
+        C56        2       2              PASSIVE     CAP - 0402
+        C57        2       2              PASSIVE     CAP - 0402
+        C58        2       2              PASSIVE     CAP - 0402
+        C59        2       2              PASSIVE     CAP - 0402
+        C60        2       2              PASSIVE     CAP - 0402
+        C61        2       2              PASSIVE     CAP - 0402
+        C62        2       2              PASSIVE     CAP - 0402
+        U2         3       VO             PASSIVE     TPS51200DRCT
+        U2         5       VOSNS          PASSIVE     TPS51200DRCT
+        U9         A1      VDDQ           PASSIVE     MT41J128M16JT-125
+        U9         A8      VDDQ           PASSIVE     MT41J128M16JT-125
+        U9         B2      VDD            PASSIVE     MT41J128M16JT-125
+        U9         C1      VDDQ           PASSIVE     MT41J128M16JT-125
+        U9         C9      VDDQ           PASSIVE     MT41J128M16JT-125
+        U9         D2      VDDQ           PASSIVE     MT41J128M16JT-125
+        U9         D9      VDD            PASSIVE     MT41J128M16JT-125
+        U9         E9      VDDQ           PASSIVE     MT41J128M16JT-125
+        U9         F1      VDDQ           PASSIVE     MT41J128M16JT-125
+        U9         G7      VDD            PASSIVE     MT41J128M16JT-125
+        U9         H2      VDDQ           PASSIVE     MT41J128M16JT-125
+        U9         H9      VDDQ           PASSIVE     MT41J128M16JT-125
+        U9         K2      VDD            PASSIVE     MT41J128M16JT-125
+        U9         K8      VDD            PASSIVE     MT41J128M16JT-125
+        U9         N1      VDD            PASSIVE     MT41J128M16JT-125
+        U9         N9      VDD            PASSIVE     MT41J128M16JT-125
+        U9         R1      VDD            PASSIVE     MT41J128M16JT-125
+        U9         R9      VDD            PASSIVE     MT41J128M16JT-125
+
+[00112] DDR3_0V75
+        C26        2       2              PASSIVE     CAP - 0603
+        C27        2       2              PASSIVE     CAP - 0603
+        C28        2       2              PASSIVE     CAP - 0603
+        C45        2       2              PASSIVE     CAP - 0603
+        C46        2       2              PASSIVE     CAP - 0603
+        C47        1       1              PASSIVE     MAL215099101E3
+        C48        2       2              PASSIVE     CAP - 0402
+        C49        2       2              PASSIVE     CAP - 0603
+        C50        2       2              PASSIVE     CAP - 0603
+        C51        1       1              PASSIVE     MAL215099101E3
+        C52        2       2              PASSIVE     CAP - 0402
+        C195       2       2              PASSIVE     CAP - 0402
+        C196       2       2              PASSIVE     CAP - 0402
+        C197       2       2              PASSIVE     CAP - 0402
+        C198       2       2              PASSIVE     CAP - 0402
+        C199       2       2              PASSIVE     CAP - 0402
+        C200       2       2              PASSIVE     CAP - 0402
+        C201       2       2              PASSIVE     CAP - 0402
+        C202       2       2              PASSIVE     CAP - 0402
+        C203       2       2              PASSIVE     CAP - 0402
+        C204       2       2              PASSIVE     CAP - 0402
+        C205       2       2              PASSIVE     CAP - 0402
+        R38        2       2              PASSIVE     RES - 0402
+        R39        2       2              PASSIVE     RES - 0402
+        R40        2       2              PASSIVE     RES - 0402
+        R41        2       2              PASSIVE     RES - 0402
+        R42        2       2              PASSIVE     RES - 0402
+        R43        2       2              PASSIVE     RES - 0402
+        R44        2       2              PASSIVE     RES - 0402
+        R45        2       2              PASSIVE     RES - 0402
+        R46        2       2              PASSIVE     RES - 0402
+        R47        2       2              PASSIVE     RES - 0402
+        R48        2       2              PASSIVE     RES - 0402
+        R49        2       2              PASSIVE     RES - 0402
+        R50        2       2              PASSIVE     RES - 0402
+        R51        2       2              PASSIVE     RES - 0402
+        R52        2       2              PASSIVE     RES - 0402
+        R53        2       2              PASSIVE     RES - 0402
+        R54        2       2              PASSIVE     RES - 0402
+        U4         3       VO             PASSIVE     TPS51200DRCT
+        U4         5       VOSNS          PASSIVE     TPS51200DRCT
+
+[00111] DAC_TXENABLE
+        U14        30      TXENABLE       PASSIVE     AD9146BCPZ
+
+[00110] DAC_SDIO
+        U14        31      SDIO           PASSIVE     AD9146BCPZ
+
+[00109] DAC_SCLK
+        U14        32      SCLK           PASSIVE     AD9146BCPZ
+
+[00108] DAC_OUT_2
+        D7         1       i/o            PASSIVE     TPD1E1B04DPYR
+        J5         1       1              PASSIVE     5-1814400-1
+        R84        1       1              PASSIVE     RES - 0603
+
+[00107] DAC_OUT_1
+        D2         1       i/o            PASSIVE     TPD1E1B04DPYR
+        J2         1       1              PASSIVE     5-1814400-1
+        R77        1       1              PASSIVE     RES - 0603
+
+[00106] DAC_D7_P
+        U14        9       D7P            PASSIVE     AD9146BCPZ
+
+[00105] DAC_D7_N
+        U14        10      D7N            PASSIVE     AD9146BCPZ
+
+[00104] DAC_D6_P
+        U14        11      D6P            PASSIVE     AD9146BCPZ
+
+[00103] DAC_D6_N
+        U14        12      D6N            PASSIVE     AD9146BCPZ
+
+[00102] DAC_D5_P
+        U14        13      D5P            PASSIVE     AD9146BCPZ
+
+[00101] DAC_D5_N
+        U14        14      D5N            PASSIVE     AD9146BCPZ
+
+[00100] DAC_D4_P
+        U14        15      D4P            PASSIVE     AD9146BCPZ
+
+[00099] DAC_D4_N
+        U14        16      D4N            PASSIVE     AD9146BCPZ
+
+[00098] DAC_D3_P
+        U14        21      D3P            PASSIVE     AD9146BCPZ
+
+[00097] DAC_D3_N
+        U14        22      D3N            PASSIVE     AD9146BCPZ
+
+[00096] DAC_D2_P
+        U14        23      D2P            PASSIVE     AD9146BCPZ
+
+[00095] DAC_D2_N
+        U14        24      D2N            PASSIVE     AD9146BCPZ
+
+[00094] DAC_D1_P
+        U14        25      D1P            PASSIVE     AD9146BCPZ
+
+[00093] DAC_D1_N
+        U14        26      D1N            PASSIVE     AD9146BCPZ
+
+[00092] DAC_D0_P
+        U14        27      D0P            PASSIVE     AD9146BCPZ
+
+[00091] DAC_D0_N
+        U14        28      D0N            PASSIVE     AD9146BCPZ
+
+[00090] DAC_CLK_P
+        U14        3       DACCLKP        PASSIVE     AD9146BCPZ
+        U14        6       REFCLKP        PASSIVE     AD9146BCPZ
+
+[00089] DAC_CLK_N
+        U14        4       DACCLKN        PASSIVE     AD9146BCPZ
+        U14        7       REFCLKN        PASSIVE     AD9146BCPZ
+
+[00088] D_P
+        D8         5       IO2            PASSIVE     TPD2E001DRLR
+        ISO1       7       UD+            PASSIVE     ADUM3160BRWZ-RL
+        J7         3       D+             PASSIVE     10118194-0001LF
+
+[00087] D_N
+        D8         3       IO1            PASSIVE     TPD2E001DRLR
+        ISO1       6       UD-            PASSIVE     ADUM3160BRWZ-RL
+        J7         2       D-             PASSIVE     10118194-0001LF
+
+[00086] D\A\C\_\R\E\S\E\T\
+        U14        36      R\E\S\E\T\     PASSIVE     AD9146BCPZ
+
+[00085] D\A\C\_\I\R\Q\
+        R89        1       1              PASSIVE     RES - 0603
+        U14        34      I\R\Q\         PASSIVE     AD9146BCPZ
+
+[00084] D\A\C\_\C\S\
+        U14        33      C\S\           PASSIVE     AD9146BCPZ
+
+[00083] BTN_2
+        R32        2       2              PASSIVE     RES - 0603
+        SW2        1       1              PASSIVE     B3SN-3012P
+        SW2        4       4              PASSIVE     B3SN-3012P
+
+[00082] BTN_1
+        R33        2       2              PASSIVE     RES - 0603
+        SW3        1       1              PASSIVE     B3SN-3012P
+        SW3        4       4              PASSIVE     B3SN-3012P
+
+[00081] ADC_VMC
+        C110       2       2              PASSIVE     CAP - 0603
+        C114       2       2              PASSIVE     CAP - 0603
+        U16        23      CM             PASSIVE     ADS62P48IRGCT
+        U17        17      VOCM1          PASSIVE     ADA4927-2YCPZ-R2
+        U22        17      VOCM1          PASSIVE     ADA4927-2YCPZ-R2
+
+[00080] ADC_SEN
+        U16        15      SEN            PASSIVE     ADS62P48IRGCT
+
+[00079] ADC_SDOUT
+        U16        64      SDOUT          PASSIVE     ADS62P48IRGCT
+
+[00078] ADC_SDATA
+        U16        14      SDATA          PASSIVE     ADS62P48IRGCT
+
+[00077] ADC_SCLK
+        U16        13      SCLK           PASSIVE     ADS62P48IRGCT
+
+[00076] ADC_RST
+        U16        12      RESET          PASSIVE     ADS62P48IRGCT
+
+[00074] ADC_IN_2
+        D6         1       i/o            PASSIVE     TPD1E1B04DPYR
+        J4         1       1              PASSIVE     5-1814400-1
+        R93        2       2              PASSIVE     RES - 0603
+        R95        2       2              PASSIVE     RES - 0603
+
+[00075] ADC_IN_2
+
+[00072] ADC_IN_1
+        D1         1       i/o            PASSIVE     TPD1E1B04DPYR
+        J1         1       1              PASSIVE     5-1814400-1
+        R101       2       2              PASSIVE     RES - 0603
+        R103       2       2              PASSIVE     RES - 0603
+
+[00073] ADC_IN_1
+
+[00071] ADC_DB12_P
+        U16        11      DB12P          PASSIVE     ADS62P48IRGCT
+
+[00070] ADC_DB12_N
+        U16        10      DB12M          PASSIVE     ADS62P48IRGCT
+
+[00069] ADC_DB10_P
+        U16        9       DB10P          PASSIVE     ADS62P48IRGCT
+
+[00068] ADC_DB10_N
+        U16        8       DB10M          PASSIVE     ADS62P48IRGCT
+
+[00067] ADC_DB8_P
+        U16        7       DB8P           PASSIVE     ADS62P48IRGCT
+
+[00066] ADC_DB8_N
+        U16        6       DB8M           PASSIVE     ADS62P48IRGCT
+
+[00065] ADC_DB6_P
+        U16        5       DB6P           PASSIVE     ADS62P48IRGCT
+
+[00064] ADC_DB6_N
+        U16        4       DB6M           PASSIVE     ADS62P48IRGCT
+
+[00063] ADC_DB4_P
+        U16        3       DB4P           PASSIVE     ADS62P48IRGCT
+
+[00062] ADC_DB4_N
+        U16        2       DB4M           PASSIVE     ADS62P48IRGCT
+
+[00061] ADC_DB2_P
+        U16        63      DB2P           PASSIVE     ADS62P48IRGCT
+
+[00060] ADC_DB2_N
+        U16        62      DB2M           PASSIVE     ADS62P48IRGCT
+
+[00059] ADC_DB0_P
+        U16        61      DB0P           PASSIVE     ADS62P48IRGCT
+
+[00058] ADC_DB0_N
+        U16        60      DB0M           PASSIVE     ADS62P48IRGCT
+
+[00056] ADC_DA12_P
+        U16        55      DA12P          PASSIVE     ADS62P48IRGCT
+
+[00057] ADC_DA12_P
+
+[00054] ADC_DA12_N
+        U16        54      DA12M          PASSIVE     ADS62P48IRGCT
+
+[00055] ADC_DA12_N
+
+[00052] ADC_DA10_P
+        U16        53      DA10P          PASSIVE     ADS62P48IRGCT
+
+[00053] ADC_DA10_P
+
+[00050] ADC_DA10_N
+        U16        52      DA10M          PASSIVE     ADS62P48IRGCT
+
+[00051] ADC_DA10_N
+
+[00048] ADC_DA8_P
+        U16        51      DA8P           PASSIVE     ADS62P48IRGCT
+
+[00049] ADC_DA8_P
+
+[00046] ADC_DA8_N
+        U16        50      DA8M           PASSIVE     ADS62P48IRGCT
+
+[00047] ADC_DA8_N
+
+[00044] ADC_DA6_P
+        U16        47      DA6P           PASSIVE     ADS62P48IRGCT
+
+[00045] ADC_DA6_P
+
+[00042] ADC_DA6_N
+        U16        46      DA6M           PASSIVE     ADS62P48IRGCT
+
+[00043] ADC_DA6_N
+
+[00040] ADC_DA4_P
+        U16        45      DA4P           PASSIVE     ADS62P48IRGCT
+
+[00041] ADC_DA4_P
+
+[00038] ADC_DA4_N
+        U16        44      DA4M           PASSIVE     ADS62P48IRGCT
+
+[00039] ADC_DA4_N
+
+[00036] ADC_DA2_P
+        U16        43      DA2P           PASSIVE     ADS62P48IRGCT
+
+[00037] ADC_DA2_P
+
+[00034] ADC_DA2_N
+        U16        42      DA2M           PASSIVE     ADS62P48IRGCT
+
+[00035] ADC_DA2_N
+
+[00032] ADC_DA0_P
+        U16        41      DA0P           PASSIVE     ADS62P48IRGCT
+
+[00033] ADC_DA0_P
+
+[00030] ADC_DA0_N
+        U16        40      DA0M           PASSIVE     ADS62P48IRGCT
+
+[00031] ADC_DA0_N
+
+[00029] ADC_CTRL3
+        U16        37      CTRL3          PASSIVE     ADS62P48IRGCT
+
+[00028] ADC_CTRL2
+        U16        36      CTRL2          PASSIVE     ADS62P48IRGCT
+
+[00027] ADC_CTRL1
+        U16        35      CTRL1          PASSIVE     ADS62P48IRGCT
+
+[00026] ADC_CLK_P
+        C112       2       2              PASSIVE     CAP - 0603
+        R98        2       2              PASSIVE     RES - 0603
+
+[00025] ADC_CLK_N
+        C113       2       2              PASSIVE     CAP - 0603
+        R98        1       1              PASSIVE     RES - 0603
+
+[00024] A5V
+        C130       2       2              PASSIVE     CAP - 0402
+        C131       2       2              PASSIVE     CAP - 0402
+        C133       2       2              PASSIVE     CAP - 0603
+        C134       2       2              PASSIVE     CAP - 0603
+        C189       2       2              PASSIVE     CAP - 0402
+        C190       2       2              PASSIVE     CAP - 0402
+        C191       2       2              PASSIVE     CAP - 0402
+        C192       2       2              PASSIVE     CAP - 0402
+        C193       2       2              PASSIVE     CAP - 0402
+        C194       2       2              PASSIVE     CAP - 0402
+        U11        1       OUT            PASSIVE     TPS7A4701RGWR
+        U11        3       SENSE/FB       PASSIVE     TPS7A4701RGWR
+        U11        20      OUT            PASSIVE     TPS7A4701RGWR
+        U15        8       +VS            PASSIVE     AD8056ARMZ
+        U17        3       +VS1           PASSIVE     ADA4927-2YCPZ-R2
+        U17        4       +VS1           PASSIVE     ADA4927-2YCPZ-R2
+        U17        20      \P\D\1         PASSIVE     ADA4927-2YCPZ-R2
+        U22        3       +VS1           PASSIVE     ADA4927-2YCPZ-R2
+        U22        4       +VS1           PASSIVE     ADA4927-2YCPZ-R2
+        U22        20      \P\D\1         PASSIVE     ADA4927-2YCPZ-R2
+
+[00023] A3V3
+        C24        2       2              PASSIVE     CAP - 0603
+        C25        2       2              PASSIVE     CAP - 0603
+        C98        2       2              PASSIVE     CAP - 0402
+        C99        2       2              PASSIVE     CAP - 0402
+        C100       2       2              PASSIVE     CAP - 0402
+        C116       2       2              PASSIVE     CAP - 0402
+        C117       2       2              PASSIVE     CAP - 0402
+        C118       2       2              PASSIVE     CAP - 0402
+        C119       2       2              PASSIVE     CAP - 0402
+        C120       2       2              PASSIVE     CAP - 0402
+        C121       2       2              PASSIVE     CAP - 0402
+        C132       2       2              PASSIVE     CAP - 0402
+        L3         2       2              PASSIVE     FER - 0603
+        U5         1       OUT            PASSIVE     TPS7A4701RGWR
+        U5         3       SENSE/FB       PASSIVE     TPS7A4701RGWR
+        U5         20      OUT            PASSIVE     TPS7A4701RGWR
+        U10        1       VCC_IN_SEC     PASSIVE     CDCE62005RGZT
+        U10        47      VCC_IN_PRI     PASSIVE     CDCE62005RGZT
+        U14        37      AVDD33         PASSIVE     AD9146BCPZ
+        U14        40      AVDD33         PASSIVE     AD9146BCPZ
+        U14        45      AVDD33         PASSIVE     AD9146BCPZ
+        U14        48      AVDD33         PASSIVE     AD9146BCPZ
+        U16        16      AVDD           PASSIVE     ADS62P48IRGCT
+        U16        33      AVDD           PASSIVE     ADS62P48IRGCT
+        U16        34      AVDD           PASSIVE     ADS62P48IRGCT
+
+[00022] -7V
+        C138       2       2              PASSIVE     CAP - 0603
+        C141       2       2              PASSIVE     CAP - 0603
+        R110       1       1              PASSIVE     RES - 0603
+        U18        1       A_VOUT         PASSIVE     LMZ34002RKGR
+        U18        4       A_VOUT         PASSIVE     LMZ34002RKGR
+        U18        5       A_VOUT         PASSIVE     LMZ34002RKGR
+        U18        8       VOUT_PT        PASSIVE     LMZ34002RKGR
+        U18        9       VOUT_PT        PASSIVE     LMZ34002RKGR
+        U18        16      VOUT           PASSIVE     LMZ34002RKGR
+        U18        17      VOUT           PASSIVE     LMZ34002RKGR
+        U18        18      VOUT           PASSIVE     LMZ34002RKGR
+        U18        19      VOUT           PASSIVE     LMZ34002RKGR
+        U18        20      VOUT           PASSIVE     LMZ34002RKGR
+        U18        29      STSEL          PASSIVE     LMZ34002RKGR
+        U18        30      RT             PASSIVE     LMZ34002RKGR
+        U18        32      A_VOUT         PASSIVE     LMZ34002RKGR
+        U18        33      A_VOUT         PASSIVE     LMZ34002RKGR
+        U18        34      A_VOUT         PASSIVE     LMZ34002RKGR
+        U18        37      A_VOUT         PASSIVE     LMZ34002RKGR
+        U18        40      VOUT           PASSIVE     LMZ34002RKGR
+        U19        13      EN             PASSIVE     TPS7A3301RGWR
+        U19        15      IN             PASSIVE     TPS7A3301RGWR
+        U19        16      IN             PASSIVE     TPS7A3301RGWR
+
+[00021] -5V
+        C74        2       2              PASSIVE     CAP - 0402
+        C97        2       2              PASSIVE     CAP - 0402
+        C139       2       2              PASSIVE     CAP - 0603
+        C140       1       1              PASSIVE     CAP - 0603
+        R112       1       1              PASSIVE     RES - 0603
+        U15        4       -VS            PASSIVE     AD8056ARMZ
+        U17        21      -VS1           PASSIVE     ADA4927-2YCPZ-R2
+        U17        22      -VS1           PASSIVE     ADA4927-2YCPZ-R2
+        U19        1       OUT            PASSIVE     TPS7A3301RGWR
+        U19        20      OUT            PASSIVE     TPS7A3301RGWR
+        U22        21      -VS1           PASSIVE     ADA4927-2YCPZ-R2
+        U22        22      -VS1           PASSIVE     ADA4927-2YCPZ-R2
+
+[00020] 400MHz_P
+        U10        16      U2P            PASSIVE     CDCE62005RGZT
+        U14        17      DCIP           PASSIVE     AD9146BCPZ
+
+[00019] 400MHz_N
+        U10        17      U2N            PASSIVE     CDCE62005RGZT
+        U14        18      DCIN           PASSIVE     AD9146BCPZ
+
+[00018] 400Hz_P
+
+[00017] 400Hz_N
+
+[00016] 200MHz_P
+        U10        19      U1P            PASSIVE     CDCE62005RGZT
+        U14        19      FRAMEP         PASSIVE     AD9146BCPZ
+
+[00015] 200MHz_N
+        U10        20      U1N            PASSIVE     CDCE62005RGZT
+        U14        20      FRAMEN         PASSIVE     AD9146BCPZ
+
+[00014] 200Hz_P
+
+[00013] 200Hz_N
+
+[00012] 125MHz_P
+        U10        45      PRI_REF+       PASSIVE     CDCE62005RGZT
+        Y2         4       CLK+           PASSIVE     590BD-BDG
+
+[00011] 125MHz_N
+        U10        46      PRI_REF-       PASSIVE     CDCE62005RGZT
+        Y2         5       CLK-           PASSIVE     590BD-BDG
+
+[00010] 100MHz_P
+        U10        27      U0P            PASSIVE     CDCE62005RGZT
+
+[00009] 100MHz_N
+        U10        28      U0N            PASSIVE     CDCE62005RGZT
+
+[00008] 100Hz_P
+
+[00007] 100Hz_N
+
+[00006] 24V
+        C4         2       2              PASSIVE     CAP - 0603
+        C85        2       2              PASSIVE     CAP - 0603
+        C88        1       1              PASSIVE     MAL214699108E3
+        C90        1       1              PASSIVE     CAP - 0603
+        C92        2       2              PASSIVE     CAP - 0603
+        C143       2       2              PASSIVE     CAP - 0603
+        D4         4       4              PASSIVE     MBRB4030T4G
+        F1         2       2              PASSIVE     0154002.DR
+        R1         2       2              PASSIVE     RES - 0603
+        R109       2       2              PASSIVE     RES - 0603
+        U1         2       Vi             PASSIVE     PTN78020WAH
+        U1         3       \Inhibit       PASSIVE     PTN78020WAH
+        U13        15      VMB            PASSIVE     DRV8811PWPR
+        U13        28      VMA            PASSIVE     DRV8811PWPR
+        U18        26      VIN            PASSIVE     LMZ34002RKGR
+
+[00005] 5V5
+        C5         1       1              PASSIVE     MAL214699501E3
+        C6         2       2              PASSIVE     CAP - 1206
+        C7         2       2              PASSIVE     CAP - 1206
+        C8         2       2              PASSIVE     CAP - 1206
+        C9         2       2              PASSIVE     CAP - 1206
+        C10        2       2              PASSIVE     CAP - 1206
+        C34        2       2              PASSIVE     CAP - 0603
+        C135       2       2              PASSIVE     CAP - 0603
+        U1         5       Vo_Sense       PASSIVE     PTN78020WAH
+        U1         6       Vo             PASSIVE     PTN78020WAH
+        U3         2       VI             PASSIVE     PTH08T241WAZ
+        U5         13      EN             PASSIVE     TPS7A4701RGWR
+        U5         15      IN             PASSIVE     TPS7A4701RGWR
+        U5         16      IN             PASSIVE     TPS7A4701RGWR
+        U11        13      EN             PASSIVE     TPS7A4701RGWR
+        U11        15      IN             PASSIVE     TPS7A4701RGWR
+        U11        16      IN             PASSIVE     TPS7A4701RGWR
+
+[00004] 3V3
+        C11        2       2              PASSIVE     CAP - 1206
+        C12        2       2              PASSIVE     CAP - 1206
+        C13        2       2              PASSIVE     CAP - 1206
+        C14        2       2              PASSIVE     CAP - 1206
+        C15        2       2              PASSIVE     CAP - 1206
+        C19        2       2              PASSIVE     CAP - 0603
+        C20        2       2              PASSIVE     CAP - 0603
+        C21        2       2              PASSIVE     CAP - 0603
+        C31        2       2              PASSIVE     CAP - 0603
+        C32        2       2              PASSIVE     CAP - 0603
+        C33        2       2              PASSIVE     CAP - 0603
+        C37        2       2              PASSIVE     CAP - 0603
+        C63        2       2              PASSIVE     CAP - 0402
+        C64        2       2              PASSIVE     CAP - 0402
+        C65        2       2              PASSIVE     CAP - 0402
+        C67        2       2              PASSIVE     CAP - 0402
+        C68        2       2              PASSIVE     CAP - 0402
+        C69        2       2              PASSIVE     CAP - 0402
+        C71        2       2              PASSIVE     CAP - 0402
+        C72        2       2              PASSIVE     CAP - 0402
+        C73        2       2              PASSIVE     CAP - 0402
+        C80        2       2              PASSIVE     CAP - 0402
+        C81        2       2              PASSIVE     CAP - 0402
+        C82        2       2              PASSIVE     CAP - 0402
+        C83        2       2              PASSIVE     CAP - 0402
+        C84        2       2              PASSIVE     CAP - 0402
+        C86        2       2              PASSIVE     CAP - 0603
+        C87        2       2              PASSIVE     CAP - 0603
+        C148       2       2              PASSIVE     CAP - 0603
+        C151       2       2              PASSIVE     CAP - 0603
+        C169       2       2              PASSIVE     CAP - 0402
+        C170       2       2              PASSIVE     CAP - 0402
+        C171       2       2              PASSIVE     CAP - 0402
+        C172       2       2              PASSIVE     CAP - 0402
+        C173       2       2              PASSIVE     CAP - 0402
+        C174       2       2              PASSIVE     CAP - 0402
+        C175       2       2              PASSIVE     CAP - 0402
+        C176       2       2              PASSIVE     CAP - 0402
+        C177       2       2              PASSIVE     CAP - 0402
+        C178       2       2              PASSIVE     CAP - 0402
+        C179       2       2              PASSIVE     CAP - 0402
+        C180       2       2              PASSIVE     CAP - 0402
+        C181       2       2              PASSIVE     CAP - 0402
+        C182       2       2              PASSIVE     CAP - 0402
+        C183       2       2              PASSIVE     CAP - 0402
+        J6         10      LED1_A         PASSIVE     RJHSE-5385
+        J6         12      LED2_A         PASSIVE     RJHSE-5385
+        L2         2       2              PASSIVE     FER - 0603
+        R11        2       2              PASSIVE     RES - 0603
+        R13        2       2              PASSIVE     RES - 0603
+        R16        2       2              PASSIVE     RES - 0603
+        R17        2       2              PASSIVE     RES - 0603
+        R19        2       2              PASSIVE     RES - 0603
+        R20        2       2              PASSIVE     RES - 0603
+        R31        2       2              PASSIVE     RES - 0603
+        R62        2       2              PASSIVE     RES - 0603
+        R63        2       2              PASSIVE     RES - 0603
+        R64        2       2              PASSIVE     RES - 0603
+        R66        1       1              PASSIVE     RES - 0603
+        R67        2       2              PASSIVE     RES - 0603
+        R70        2       2              PASSIVE     RES - 0603
+        SW2        2       2              PASSIVE     B3SN-3012P
+        SW2        3       3              PASSIVE     B3SN-3012P
+        SW3        2       2              PASSIVE     B3SN-3012P
+        SW3        3       3              PASSIVE     B3SN-3012P
+        U2         2       VLDOIN         PASSIVE     TPS51200DRCT
+        U2         7       EN             PASSIVE     TPS51200DRCT
+        U2         10      VIN            PASSIVE     TPS51200DRCT
+        U3         5       VO             PASSIVE     PTH08T241WAZ
+        U3         6       Sense+         PASSIVE     PTH08T241WAZ
+        U4         2       VLDOIN         PASSIVE     TPS51200DRCT
+        U4         7       EN             PASSIVE     TPS51200DRCT
+        U4         10      VIN            PASSIVE     TPS51200DRCT
+        U6         13      EN             PASSIVE     TPS7A4701RGWR
+        U6         15      IN             PASSIVE     TPS7A4701RGWR
+        U6         16      IN             PASSIVE     TPS7A4701RGWR
+        U7         17      VDDIO          POWER       KSZ8091MNXCA
+        U8         AB14    VCCO_2         PASSIVE     XC6SLX100-3FGG676C
+        U8         AB23    VCCO_1         PASSIVE     XC6SLX100-3FGG676C
+        U8         AC10    VCCO_2         PASSIVE     XC6SLX100-3FGG676C
+        U8         AC18    VCCO_2         PASSIVE     XC6SLX100-3FGG676C
+        U8         AC21    VCCO_2         PASSIVE     XC6SLX100-3FGG676C
+        U8         AD25    VCCO_1         PASSIVE     XC6SLX100-3FGG676C
+        U8         AE8     VCCO_2         PASSIVE     XC6SLX100-3FGG676C
+        U8         AE12    VCCO_2         PASSIVE     XC6SLX100-3FGG676C
+        U8         AE16    VCCO_2         PASSIVE     XC6SLX100-3FGG676C
+        U8         AE20    VCCO_2         PASSIVE     XC6SLX100-3FGG676C
+        U8         AF22    IO_L1N_M0_CMPMIPASSIVE     XC6SLX100-3FGG676C
+        U8         B3      VCCO_0         PASSIVE     XC6SLX100-3FGG676C
+        U8         B7      VCCO_0         PASSIVE     XC6SLX100-3FGG676C
+        U8         B11     VCCO_0         PASSIVE     XC6SLX100-3FGG676C
+        U8         B15     VCCO_0         PASSIVE     XC6SLX100-3FGG676C
+        U8         B19     VCCO_0         PASSIVE     XC6SLX100-3FGG676C
+        U8         C22     VCCO_0         PASSIVE     XC6SLX100-3FGG676C
+        U8         D2      VCCO_4         PASSIVE     XC6SLX100-3FGG676C
+        U8         D9      VCCO_0         PASSIVE     XC6SLX100-3FGG676C
+        U8         D17     VCCO_0         PASSIVE     XC6SLX100-3FGG676C
+        U8         D25     VCCO_5         PASSIVE     XC6SLX100-3FGG676C
+        U8         E13     VCCO_0         PASSIVE     XC6SLX100-3FGG676C
+        U8         F4      VCCO_4         PASSIVE     XC6SLX100-3FGG676C
+        U8         F23     VCCO_5         PASSIVE     XC6SLX100-3FGG676C
+        U8         G10     VCCO_0         PASSIVE     XC6SLX100-3FGG676C
+        U8         G18     VCCO_0         PASSIVE     XC6SLX100-3FGG676C
+        U8         H2      VCCO_4         PASSIVE     XC6SLX100-3FGG676C
+        U8         H14     VCCO_0         PASSIVE     XC6SLX100-3FGG676C
+        U8         H25     VCCO_5         PASSIVE     XC6SLX100-3FGG676C
+        U8         J6      VCCO_4         PASSIVE     XC6SLX100-3FGG676C
+        U8         J21     VCCO_5         PASSIVE     XC6SLX100-3FGG676C
+        U8         K4      VCCO_4         PASSIVE     XC6SLX100-3FGG676C
+        U8         K23     VCCO_5         PASSIVE     XC6SLX100-3FGG676C
+        U8         M2      VCCO_4         PASSIVE     XC6SLX100-3FGG676C
+        U8         M20     VCCO_1         PASSIVE     XC6SLX100-3FGG676C
+        U8         M25     VCCO_5         PASSIVE     XC6SLX100-3FGG676C
+        U8         P23     VCCO_1         PASSIVE     XC6SLX100-3FGG676C
+        U8         T25     VCCO_1         PASSIVE     XC6SLX100-3FGG676C
+        U8         U18     VCCO_1         PASSIVE     XC6SLX100-3FGG676C
+        U8         V21     VCCO_1         PASSIVE     XC6SLX100-3FGG676C
+        U8         W23     VCCO_1         PASSIVE     XC6SLX100-3FGG676C
+        U8         Y12     VCCO_2         PASSIVE     XC6SLX100-3FGG676C
+        U8         Y17     VCCO_2         PASSIVE     XC6SLX100-3FGG676C
+        U8         Y25     VCCO_1         PASSIVE     XC6SLX100-3FGG676C
+        U10        8       VCC_OUT        PASSIVE     CDCE62005RGZT
+        U10        11      VCC_OUT        PASSIVE     CDCE62005RGZT
+        U10        15      VCC_AUXOUT     PASSIVE     CDCE62005RGZT
+        U10        18      VCC_OUT        PASSIVE     CDCE62005RGZT
+        U10        21      VCC_OUT        PASSIVE     CDCE62005RGZT
+        U10        26      VCC_OUT        PASSIVE     CDCE62005RGZT
+        U10        29      VCC_OUT        PASSIVE     CDCE62005RGZT
+        U10        32      VCC_OUT        PASSIVE     CDCE62005RGZT
+        U10        44      VCC_AUXIN      PASSIVE     CDCE62005RGZT
+        U12        3       W\P\           INPUT       AT25DF321A-MH-T
+        U12        7       H\O\L\D\       INPUT       AT25DF321A-MH-T
+        U12        8       VCC            POWER       AT25DF321A-MH-T
+        U13        10      VCC            PASSIVE     DRV8811PWPR
+        U13        17      R\E\S\E\T\     PASSIVE     DRV8811PWPR
+        U13        27      S\L\E\E\P\     PASSIVE     DRV8811PWPR
+        U20        13      EN             PASSIVE     TPS7A4701RGWR
+        U20        15      IN             PASSIVE     TPS7A4701RGWR
+        U20        16      IN             PASSIVE     TPS7A4701RGWR
+        U21        13      EN             PASSIVE     TPS7A4701RGWR
+        U21        15      IN             PASSIVE     TPS7A4701RGWR
+        U21        16      IN             PASSIVE     TPS7A4701RGWR
+        Y1         4       VDD            PASSIVE     ASDMB-25.000MHZ-LC-T
+        Y2         2       OE             PASSIVE     590BD-BDG
+        Y2         6       VDD            PASSIVE     590BD-BDG
+
+[00003] 1V8
+        C29        2       2              PASSIVE     CAP - 0603
+        C30        2       2              PASSIVE     CAP - 0603
+        C101       2       2              PASSIVE     CAP - 0402
+        C102       2       2              PASSIVE     CAP - 0402
+        C103       2       2              PASSIVE     CAP - 0402
+        C104       2       2              PASSIVE     CAP - 0402
+        C105       2       2              PASSIVE     CAP - 0402
+        C106       2       2              PASSIVE     CAP - 0402
+        C107       2       2              PASSIVE     CAP - 0402
+        C108       2       2              PASSIVE     CAP - 0402
+        C122       2       2              PASSIVE     CAP - 0402
+        C123       2       2              PASSIVE     CAP - 0402
+        C124       2       2              PASSIVE     CAP - 0402
+        C125       2       2              PASSIVE     CAP - 0402
+        C126       2       2              PASSIVE     CAP - 0402
+        C127       2       2              PASSIVE     CAP - 0402
+        C128       2       2              PASSIVE     CAP - 0402
+        C129       2       2              PASSIVE     CAP - 0402
+        R89        2       2              PASSIVE     RES - 0603
+        U6         1       OUT            PASSIVE     TPS7A4701RGWR
+        U6         3       SENSE/FB       PASSIVE     TPS7A4701RGWR
+        U6         20      OUT            PASSIVE     TPS7A4701RGWR
+        U14        1       CVDD18         PASSIVE     AD9146BCPZ
+        U14        2       CVDD18         PASSIVE     AD9146BCPZ
+        U14        8       DVDD18         PASSIVE     AD9146BCPZ
+        U14        29      DVDD18         PASSIVE     AD9146BCPZ
+        U14        35      DVDD18         PASSIVE     AD9146BCPZ
+        U16        1       DRVDD          PASSIVE     ADS62P48IRGCT
+        U16        38      DRVDD          PASSIVE     ADS62P48IRGCT
+        U16        48      DRVDD          PASSIVE     ADS62P48IRGCT
+        U16        58      DRVDD          PASSIVE     ADS62P48IRGCT
+
+[00002] 1V5
+        C144       2       2              PASSIVE     CAP - 0603
+        C145       2       2              PASSIVE     CAP - 0603
+        C160       2       2              PASSIVE     CAP - 0402
+        C161       2       2              PASSIVE     CAP - 0402
+        C162       2       2              PASSIVE     CAP - 0402
+        C163       2       2              PASSIVE     CAP - 0402
+        C164       2       2              PASSIVE     CAP - 0402
+        C165       2       2              PASSIVE     CAP - 0402
+        C166       2       2              PASSIVE     CAP - 0402
+        C167       2       2              PASSIVE     CAP - 0402
+        C168       2       2              PASSIVE     CAP - 0402
+        C184       2       2              PASSIVE     CAP - 0402
+        C185       2       2              PASSIVE     CAP - 0402
+        C186       2       2              PASSIVE     CAP - 0402
+        C187       2       2              PASSIVE     CAP - 0402
+        C188       2       2              PASSIVE     CAP - 0402
+        U8         AA6     VCCAUX         PASSIVE     XC6SLX100-3FGG676C
+        U8         AA10    VCCAUX         PASSIVE     XC6SLX100-3FGG676C
+        U8         AA16    VCCAUX         PASSIVE     XC6SLX100-3FGG676C
+        U8         AA21    VCCAUX         PASSIVE     XC6SLX100-3FGG676C
+        U8         AC6     VCCO_3         PASSIVE     XC6SLX100-3FGG676C
+        U8         AD2     VCCO_3         PASSIVE     XC6SLX100-3FGG676C
+        U8         F6      VCCAUX         PASSIVE     XC6SLX100-3FGG676C
+        U8         F21     VCCAUX         PASSIVE     XC6SLX100-3FGG676C
+        U8         G12     VCCAUX         PASSIVE     XC6SLX100-3FGG676C
+        U8         G15     VCCAUX         PASSIVE     XC6SLX100-3FGG676C
+        U8         J9      VCCAUX         PASSIVE     XC6SLX100-3FGG676C
+        U8         J18     VCCAUX         PASSIVE     XC6SLX100-3FGG676C
+        U8         K13     VCCAUX         PASSIVE     XC6SLX100-3FGG676C
+        U8         L5      VCCAUX         PASSIVE     XC6SLX100-3FGG676C
+        U8         L22     VCCAUX         PASSIVE     XC6SLX100-3FGG676C
+        U8         M7      VCCO_3         PASSIVE     XC6SLX100-3FGG676C
+        U8         M17     VCCAUX         PASSIVE     XC6SLX100-3FGG676C
+        U8         N10     VCCAUX         PASSIVE     XC6SLX100-3FGG676C
+        U8         P4      VCCO_3         PASSIVE     XC6SLX100-3FGG676C
+        U8         P9      VCCO_3         PASSIVE     XC6SLX100-3FGG676C
+        U8         T2      VCCO_3         PASSIVE     XC6SLX100-3FGG676C
+        U8         T7      VCCO_3         PASSIVE     XC6SLX100-3FGG676C
+        U8         U6      VCCAUX         PASSIVE     XC6SLX100-3FGG676C
+        U8         U14     VCCAUX         PASSIVE     XC6SLX100-3FGG676C
+        U8         V9      VCCAUX         PASSIVE     XC6SLX100-3FGG676C
+        U8         W4      VCCO_3         PASSIVE     XC6SLX100-3FGG676C
+        U8         W6      VCCO_3         PASSIVE     XC6SLX100-3FGG676C
+        U8         Y2      VCCO_3         PASSIVE     XC6SLX100-3FGG676C
+        U8         Y19     VCCAUX         PASSIVE     XC6SLX100-3FGG676C
+        U20        1       OUT            PASSIVE     TPS7A4701RGWR
+        U20        3       SENSE/FB       PASSIVE     TPS7A4701RGWR
+        U20        20      OUT            PASSIVE     TPS7A4701RGWR
+
+[00001] 1V2
+        C146       2       2              PASSIVE     CAP - 0603
+        C147       2       2              PASSIVE     CAP - 0603
+        C154       2       2              PASSIVE     CAP - 0402
+        C155       2       2              PASSIVE     CAP - 0402
+        C156       2       2              PASSIVE     CAP - 0402
+        C157       2       2              PASSIVE     CAP - 0402
+        C158       2       2              PASSIVE     CAP - 0402
+        C159       2       2              PASSIVE     CAP - 0402
+        U8         K11     VCCINT         PASSIVE     XC6SLX100-3FGG676C
+        U8         K17     VCCINT         PASSIVE     XC6SLX100-3FGG676C
+        U8         L10     VCCINT         PASSIVE     XC6SLX100-3FGG676C
+        U8         L12     VCCINT         PASSIVE     XC6SLX100-3FGG676C
+        U8         L14     VCCINT         PASSIVE     XC6SLX100-3FGG676C
+        U8         L16     VCCINT         PASSIVE     XC6SLX100-3FGG676C
+        U8         M11     VCCINT         PASSIVE     XC6SLX100-3FGG676C
+        U8         M13     VCCINT         PASSIVE     XC6SLX100-3FGG676C
+        U8         M15     VCCINT         PASSIVE     XC6SLX100-3FGG676C
+        U8         N12     VCCINT         PASSIVE     XC6SLX100-3FGG676C
+        U8         N14     VCCINT         PASSIVE     XC6SLX100-3FGG676C
+        U8         N16     VCCINT         PASSIVE     XC6SLX100-3FGG676C
+        U8         P11     VCCINT         PASSIVE     XC6SLX100-3FGG676C
+        U8         P13     VCCINT         PASSIVE     XC6SLX100-3FGG676C
+        U8         P15     VCCINT         PASSIVE     XC6SLX100-3FGG676C
+        U8         R12     VCCINT         PASSIVE     XC6SLX100-3FGG676C
+        U8         R14     VCCINT         PASSIVE     XC6SLX100-3FGG676C
+        U8         R16     VCCINT         PASSIVE     XC6SLX100-3FGG676C
+        U8         T11     VCCINT         PASSIVE     XC6SLX100-3FGG676C
+        U8         T13     VCCINT         PASSIVE     XC6SLX100-3FGG676C
+        U8         T15     VCCINT         PASSIVE     XC6SLX100-3FGG676C
+        U8         T17     VCCINT         PASSIVE     XC6SLX100-3FGG676C
+        U8         U10     VCCINT         PASSIVE     XC6SLX100-3FGG676C
+        U8         U16     VCCINT         PASSIVE     XC6SLX100-3FGG676C
+        U21        1       OUT            PASSIVE     TPS7A4701RGWR
+        U21        3       SENSE/FB       PASSIVE     TPS7A4701RGWR
+        U21        20      OUT            PASSIVE     TPS7A4701RGWR
+
