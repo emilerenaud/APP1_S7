@@ -1,0 +1,18 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Mathuot\OneDrive - USherbrooke\PMC\Github\APP1_S7\APP_1_huom2704\APP_1_PCB.PcbDoc
+Date     : 2024-03-11
+Time     : 16:11:09
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=10mil) (Disabled)(InNetClass('DDR3_DQ[0..16]'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=10mil) (Disabled)((InNetClass('DDR3_A[0..13]') OR InNetClass('DDR3_BA[0..2]') OR InDifferentialPair('DDR3_CK') OR DDR3_CKE OR DDR3_UDM OR DDR3_LDM OR DDR3_ODT))
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:01
