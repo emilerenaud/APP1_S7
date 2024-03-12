@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Mathuot\OneDrive - USherbrooke\PMC\Github\APP1_S7\APP_1_huom2704\APP_EMILE.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=app_emile-roundholes.txt|DrillLayers=gtl,gp1,g1,gp2,gp3,gp4,gp5,gp6,gp7,g2,gp8,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=app_emile-slotholes.txt|DrillLayers=gtl,gp1,g1,gp2,gp3,gp4,gp5,gp6,gp7,g2,gp8,gbl

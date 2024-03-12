@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: APP_EMILE.GBR   2024-03-12  11:18:32
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                L1_Signal                               
+.GP1                L2_GND                                  
+.G1                 L3_Signal                               
+.GP2                L4_GND                                  
+.GP3                L5_Power                                
+.GP4                L6_GND                                  
+.GP5                L7_GND                                  
+.GP6                L8_Power                                
+.GP7                L9_GND                                  
+.G2                 L10_Signal                              
+.GP8                L11_GND                                 
+.GBL                L12_Signal                              
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM2                Mechanical 2                            
+.GD1                Drill Drawing                           
+.GG1                Drill Guide                             
+------------------------------------------------------------------------------------------

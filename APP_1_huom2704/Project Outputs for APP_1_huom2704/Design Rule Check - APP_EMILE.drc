@@ -1,0 +1,191 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Mathuot\OneDrive - USherbrooke\PMC\Github\APP1_S7\APP_1_huom2704\APP_EMILE.PcbDoc
+Date     : 2024-03-12
+Time     : 10:32:48
+
+Processing Rule : Clearance Constraint (Gap=3mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=4mil) (Max=10mil) (Preferred=10mil) (OnLayer('Signal 50 1'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=4mil) (Max=10mil) (Preferred=10mil) (InNetClass('DDR3_DQ[0..16]') OR InNetClass('DDR3_A[0..13]'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=4mil) (Max=10mil) (Preferred=10mil) (OnLayer('Bottom'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=3mil) (Max=10mil) (Preferred=3mil) (OnLayer('Top'))
+Rule Violations :0
+
+Processing Rule : Routing Layers(All)
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=5mil) (Max=5mil) (Prefered=5mil)  and Width Constraints (Min=4mil) (Max=15mil) (Prefered=15mil) (InNetClass('DDR3_CLK'))
+   Violation between Differential Pairs Routing: Track (4157.784mil,3054.944mil)(4176.676mil,3036.053mil) on L1_Signal Actual Width = 10mil, Target Width = 15mil
+   Violation between Differential Pairs Routing: Track (4197.155mil,3054.944mil)(4216.046mil,3036.053mil) on L1_Signal Actual Width = 10mil, Target Width = 15mil
+   Violation between Differential Pairs Routing: Track (4236.525mil,3369.905mil)(4255.416mil,3351.014mil) on L1_Signal Actual Width = 10mil, Target Width = 15mil
+   Violation between Differential Pairs Routing: Track (4275.895mil,3369.905mil)(4294.786mil,3351.014mil) on L1_Signal Actual Width = 10mil, Target Width = 15mil
+   Violation between Differential Pairs Routing: Track (5273.178mil,3246.016mil)(5288.018mil,3231.176mil) on L1_Signal Actual Width = 4mil, Target Width = 15mil
+   Violation between Differential Pairs Routing: Track (5273mil,3215.668mil)(5273mil,3216.46mil) on L1_Signal Actual Width = 4mil, Target Width = 15mil
+   Violation between Differential Pairs Routing: Track (5273mil,3215.668mil)(5288.196mil,3200.472mil) on L1_Signal Actual Width = 4mil, Target Width = 15mil
+   Violation between Differential Pairs Routing: Track (5273mil,3246.016mil)(5273.178mil,3246.016mil) on L1_Signal Actual Width = 4mil, Target Width = 15mil
+   Violation between Differential Pairs Routing: Track (5288.018mil,3231.176mil)(5288.196mil,3231.176mil) on L1_Signal Actual Width = 4mil, Target Width = 15mil
+   Violation between Differential Pairs Routing: Track (5288.196mil,3199.68mil)(5288.196mil,3200.472mil) on L1_Signal Actual Width = 4mil, Target Width = 15mil
+   Violation between Differential Pairs Routing: Track (5414.185mil,3136.688mil)(5429.063mil,3151.566mil) on L1_Signal Actual Width = 4mil, Target Width = 15mil
+   Violation between Differential Pairs Routing: Track (5414.18mil,3105.191mil)(5414.18mil,3105.369mil) on L1_Signal Actual Width = 4mil, Target Width = 15mil
+   Violation between Differential Pairs Routing: Track (5414.18mil,3105.369mil)(5429.02mil,3120.209mil) on L1_Signal Actual Width = 4mil, Target Width = 15mil
+   Violation between Differential Pairs Routing: Track (5414.18mil,3136.688mil)(5414.185mil,3136.688mil) on L1_Signal Actual Width = 4mil, Target Width = 15mil
+   Violation between Differential Pairs Routing: Track (5414.18mil,3325.664mil)(5414.18mil,3325.842mil) on L1_Signal Actual Width = 4mil, Target Width = 15mil
+   Violation between Differential Pairs Routing: Track (5414.18mil,3325.842mil)(5429.02mil,3340.682mil) on L1_Signal Actual Width = 4mil, Target Width = 15mil
+   Violation between Differential Pairs Routing: Track (5414.18mil,3357.16mil)(5414.18mil,3357.338mil) on L1_Signal Actual Width = 4mil, Target Width = 15mil
+   Violation between Differential Pairs Routing: Track (5414.18mil,3357.338mil)(5429.02mil,3372.178mil) on L1_Signal Actual Width = 4mil, Target Width = 15mil
+   Violation between Differential Pairs Routing: Track (5429.02mil,3120.209mil)(5429.02mil,3120.387mil) on L1_Signal Actual Width = 4mil, Target Width = 15mil
+   Violation between Differential Pairs Routing: Track (5429.02mil,3340.682mil)(5429.02mil,3340.86mil) on L1_Signal Actual Width = 4mil, Target Width = 15mil
+   Violation between Differential Pairs Routing: Track (5429.02mil,3372.178mil)(5429.02mil,3372.356mil) on L1_Signal Actual Width = 4mil, Target Width = 15mil
+   Violation between Differential Pairs Routing: Track (5429.063mil,3151.566mil)(5429.068mil,3151.566mil) on L1_Signal Actual Width = 4mil, Target Width = 15mil
+   Violation between Differential Pairs Routing: Track (5700mil,3127.135mil)(5702.977mil,3127.135mil) on L1_Signal Actual Width = 4mil, Target Width = 15mil
+   Violation between Differential Pairs Routing: Track (5700mil,3145.135mil)(5702.977mil,3145.135mil) on L1_Signal Actual Width = 4mil, Target Width = 15mil
+   Violation between Differential Pairs Routing: Track (5702.977mil,3127.135mil)(5707.477mil,3131.635mil) on L1_Signal Actual Width = 4mil, Target Width = 15mil
+   Violation between Differential Pairs Routing: Track (5702.977mil,3145.135mil)(5707.477mil,3140.635mil) on L1_Signal Actual Width = 4mil, Target Width = 15mil
+   Violation between Differential Pairs Routing: Track (5707.477mil,3131.635mil)(5724.346mil,3131.635mil) on L1_Signal Actual Width = 4mil, Target Width = 15mil
+   Violation between Differential Pairs Routing: Track (5707.477mil,3140.635mil)(5712.5mil,3140.635mil) on L1_Signal Actual Width = 4mil, Target Width = 15mil
+   Violation between Differential Pairs Routing: Track (5712.5mil,3140.635mil)(5712.808mil,3140.943mil) on L1_Signal Actual Width = 4mil, Target Width = 15mil
+   Violation between Differential Pairs Routing: Track (5712.808mil,3140.943mil)(5729.9mil,3140.943mil) on L1_Signal Actual Width = 4mil, Target Width = 15mil
+   Violation between Differential Pairs Routing: Track (5724.346mil,3131.635mil)(5724.654mil,3131.943mil) on L1_Signal Actual Width = 4mil, Target Width = 15mil
+   Violation between Differential Pairs Routing: Track (5724.654mil,3131.943mil)(5729.9mil,3131.943mil) on L1_Signal Actual Width = 4mil, Target Width = 15mil
+   Violation between Differential Pairs Routing: Track (5729.9mil,3131.943mil)(5740mil,3121.843mil) on L1_Signal Actual Width = 4mil, Target Width = 15mil
+   Violation between Differential Pairs Routing: Track (5729.9mil,3140.943mil)(5740mil,3151.044mil) on L1_Signal Actual Width = 4mil, Target Width = 15mil
+   Violation between Differential Pairs Routing: Track (5740mil,3120.387mil)(5740mil,3121.843mil) on L1_Signal Actual Width = 4mil, Target Width = 15mil
+   Violation between Differential Pairs Routing: Track (5740mil,3151.044mil)(5740mil,3152.5mil) on L1_Signal Actual Width = 4mil, Target Width = 15mil
+Rule Violations :36
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=4mil) (Max=10mil) (Prefered=10mil)  and Width Constraints (Min=15mil) (Max=15mil) (Prefered=15mil) (OnLayer('Signal 50 1'))
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=5mil) (Max=5mil) (Prefered=5mil)  and Width Constraints (Min=2.939mil) (Max=6.526mil) (Prefered=6.526mil) (InDifferentialPairClass('ETH'))
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=4mil) (Max=10mil) (Prefered=10mil)  and Width Constraints (Min=15mil) (Max=15mil) (Prefered=15mil) (OnLayer('Signal 40 1'))
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=4mil) (Max=10mil) (Prefered=10mil)  and Width Constraints (Min=8.339mil) (Max=15mil) (Prefered=15mil) (InDifferentialPairClass('USB'))
+   Violation between Differential Pairs Routing: Track (160.975mil,6912.522mil)(163.724mil,6915.271mil) on L1_Signal Actual Width = 10.25mil, Target Width = 8.339mil
+   Violation between Differential Pairs Routing: Track (160.975mil,6938.113mil)(163.724mil,6935.364mil) on L1_Signal Actual Width = 10.25mil, Target Width = 8.339mil
+   Violation between Differential Pairs Routing: Track (163.724mil,6915.271mil)(186.008mil,6915.271mil) on L1_Signal Actual Width = 10.25mil, Target Width = 8.339mil
+   Violation between Differential Pairs Routing: Track (163.724mil,6935.364mil)(186.008mil,6935.364mil) on L1_Signal Actual Width = 10.25mil, Target Width = 8.339mil
+   Violation between Differential Pairs Routing: Track (186.008mil,6915.271mil)(188.429mil,6917.693mil) on L1_Signal Actual Width = 10.25mil, Target Width = 8.339mil
+   Violation between Differential Pairs Routing: Track (186.008mil,6935.364mil)(188.429mil,6932.943mil) on L1_Signal Actual Width = 10.25mil, Target Width = 8.339mil
+   Violation between Differential Pairs Routing: Track (188.429mil,6917.693mil)(217.718mil,6917.693mil) on L1_Signal Actual Width = 10.25mil, Target Width = 8.339mil
+   Violation between Differential Pairs Routing: Track (188.429mil,6932.943mil)(224.035mil,6932.943mil) on L1_Signal Actual Width = 10.25mil, Target Width = 8.339mil
+   Violation between Differential Pairs Routing: Track (217.718mil,6917.693mil)(229.547mil,6905.864mil) on L1_Signal Actual Width = 10.25mil, Target Width = 8.339mil
+   Violation between Differential Pairs Routing: Track (224.035mil,6932.943mil)(235.864mil,6921.114mil) on L1_Signal Actual Width = 10.25mil, Target Width = 8.339mil
+   Violation between Differential Pairs Routing: Track (229.547mil,6905.864mil)(296mil,6905.864mil) on L1_Signal Actual Width = 10.25mil, Target Width = 8.339mil
+   Violation between Differential Pairs Routing: Track (235.864mil,6921.114mil)(256.29mil,6921.114mil) on L1_Signal Actual Width = 10.25mil, Target Width = 8.339mil
+   Violation between Differential Pairs Routing: Track (256.29mil,6921.114mil)(256.29mil,6939.097mil) on L1_Signal Actual Width = 10.25mil, Target Width = 8.339mil
+   Violation between Differential Pairs Routing: Track (256.29mil,6921.114mil)(307.857mil,6921.114mil) on L1_Signal Actual Width = 10.25mil, Target Width = 8.339mil
+   Violation between Differential Pairs Routing: Track (295.66mil,6885.948mil)(295.66mil,6905.524mil) on L1_Signal Actual Width = 10.25mil, Target Width = 8.339mil
+   Violation between Differential Pairs Routing: Track (295.66mil,6905.524mil)(296mil,6905.864mil) on L1_Signal Actual Width = 10.25mil, Target Width = 8.339mil
+   Violation between Differential Pairs Routing: Track (296mil,6905.864mil)(301.54mil,6905.864mil) on L1_Signal Actual Width = 10.25mil, Target Width = 8.339mil
+   Violation between Differential Pairs Routing: Track (301.54mil,6905.864mil)(381.847mil,6825.557mil) on L1_Signal Actual Width = 10.25mil, Target Width = 8.339mil
+   Violation between Differential Pairs Routing: Track (307.857mil,6921.114mil)(397.097mil,6831.874mil) on L1_Signal Actual Width = 10.25mil, Target Width = 8.339mil
+   Violation between Differential Pairs Routing: Track (381.847mil,6820.425mil)(381.847mil,6825.557mil) on L1_Signal Actual Width = 10.25mil, Target Width = 8.339mil
+   Violation between Differential Pairs Routing: Track (381.847mil,6820.425mil)(396.784mil,6805.488mil) on L1_Signal Actual Width = 10.25mil, Target Width = 8.339mil
+   Violation between Differential Pairs Routing: Track (396.784mil,6805.488mil)(411.592mil,6805.488mil) on L1_Signal Actual Width = 10.25mil, Target Width = 8.339mil
+   Violation between Differential Pairs Routing: Track (397.097mil,6826.742mil)(397.097mil,6831.874mil) on L1_Signal Actual Width = 10.25mil, Target Width = 8.339mil
+   Violation between Differential Pairs Routing: Track (397.097mil,6826.742mil)(403.101mil,6820.738mil) on L1_Signal Actual Width = 10.25mil, Target Width = 8.339mil
+   Violation between Differential Pairs Routing: Track (403.101mil,6820.738mil)(411.592mil,6820.738mil) on L1_Signal Actual Width = 10.25mil, Target Width = 8.339mil
+   Violation between Differential Pairs Routing: Track (411.592mil,6805.488mil)(417.596mil,6799.484mil) on L1_Signal Actual Width = 10.25mil, Target Width = 8.339mil
+   Violation between Differential Pairs Routing: Track (411.592mil,6820.738mil)(417.596mil,6826.742mil) on L1_Signal Actual Width = 10.25mil, Target Width = 8.339mil
+   Violation between Differential Pairs Routing: Track (417.596mil,6793.992mil)(417.596mil,6799.484mil) on L1_Signal Actual Width = 10.25mil, Target Width = 8.339mil
+   Violation between Differential Pairs Routing: Track (417.596mil,6793.992mil)(423.475mil,6788.113mil) on L1_Signal Actual Width = 10.25mil, Target Width = 8.339mil
+   Violation between Differential Pairs Routing: Track (417.596mil,6826.742mil)(417.596mil,6832.234mil) on L1_Signal Actual Width = 10.25mil, Target Width = 8.339mil
+   Violation between Differential Pairs Routing: Track (417.596mil,6832.234mil)(423.475mil,6838.113mil) on L1_Signal Actual Width = 10.25mil, Target Width = 8.339mil
+   Violation between Differential Pairs Routing: Track (423.475mil,6788.113mil)(457.727mil,6788.113mil) on L1_Signal Actual Width = 10.25mil, Target Width = 8.339mil
+   Violation between Differential Pairs Routing: Track (423.475mil,6838.113mil)(457.727mil,6838.113mil) on L1_Signal Actual Width = 10.25mil, Target Width = 8.339mil
+Rule Violations :33
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=4mil) (Max=10mil) (Prefered=10mil)  and Width Constraints (Min=4mil) (Max=15mil) (Prefered=15mil) (OnLayer('Bottom'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+   Violation between Starved Thermal on L11_GND: Pad U7-35(1542.126mil,6267.126mil) on Multi-Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on L2_GND: Pad U7-35(1542.126mil,6267.126mil) on Multi-Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on L4_GND: Pad U7-35(1542.126mil,6267.126mil) on Multi-Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on L6_GND: Pad U7-35(1542.126mil,6267.126mil) on Multi-Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on L7_GND: Pad U7-35(1542.126mil,6267.126mil) on Multi-Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on L8_Power: Pad U7-35(1542.126mil,6267.126mil) on Multi-Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on L9_GND: Pad U7-35(1542.126mil,6267.126mil) on Multi-Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on L11_GND: Pad U7-37(1500mil,6225mil) on Multi-Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on L2_GND: Pad U7-37(1500mil,6225mil) on Multi-Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on L4_GND: Pad U7-37(1500mil,6225mil) on Multi-Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on L6_GND: Pad U7-37(1500mil,6225mil) on Multi-Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on L7_GND: Pad U7-37(1500mil,6225mil) on Multi-Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on L8_Power: Pad U7-37(1500mil,6225mil) on Multi-Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on L9_GND: Pad U7-37(1500mil,6225mil) on Multi-Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on L11_GND: Pad U7-38(1542.126mil,6225mil) on Multi-Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on L2_GND: Pad U7-38(1542.126mil,6225mil) on Multi-Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on L4_GND: Pad U7-38(1542.126mil,6225mil) on Multi-Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on L6_GND: Pad U7-38(1542.126mil,6225mil) on Multi-Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on L7_GND: Pad U7-38(1542.126mil,6225mil) on Multi-Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on L8_Power: Pad U7-38(1542.126mil,6225mil) on Multi-Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on L9_GND: Pad U7-38(1542.126mil,6225mil) on Multi-Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on L11_GND: Pad U7-39(1584.252mil,6225mil) on Multi-Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on L2_GND: Pad U7-39(1584.252mil,6225mil) on Multi-Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on L4_GND: Pad U7-39(1584.252mil,6225mil) on Multi-Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on L6_GND: Pad U7-39(1584.252mil,6225mil) on Multi-Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on L7_GND: Pad U7-39(1584.252mil,6225mil) on Multi-Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on L8_Power: Pad U7-39(1584.252mil,6225mil) on Multi-Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on L9_GND: Pad U7-39(1584.252mil,6225mil) on Multi-Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on L11_GND: Pad U7-41(1542.126mil,6182.874mil) on Multi-Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on L2_GND: Pad U7-41(1542.126mil,6182.874mil) on Multi-Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on L4_GND: Pad U7-41(1542.126mil,6182.874mil) on Multi-Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on L6_GND: Pad U7-41(1542.126mil,6182.874mil) on Multi-Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on L7_GND: Pad U7-41(1542.126mil,6182.874mil) on Multi-Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on L8_Power: Pad U7-41(1542.126mil,6182.874mil) on Multi-Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on L9_GND: Pad U7-41(1542.126mil,6182.874mil) on Multi-Layer. Blocked 2 out of 4 entries.
+Rule Violations :35
+
+Processing Rule : Hole Size Constraint (Min=4mil) (Max=1000mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+   Violation between Hole To Hole Clearance Constraint: (9mil < 10mil) Between Via (1410mil,6216mil) from L1_Signal to L12_Signal And Via (1410mil,6234mil) from L1_Signal to L12_Signal 
+   Violation between Hole To Hole Clearance Constraint: (9mil < 10mil) Between Via (5426.353mil,3169.36mil) from L1_Signal to L12_Signal And Via (5429.068mil,3151.566mil) from L1_Signal to L12_Signal 
+   Violation between Hole To Hole Clearance Constraint: (9mil < 10mil) Between Via (5700mil,3127.135mil) from L1_Signal to L12_Signal And Via (5700mil,3145.135mil) from L1_Signal to L12_Signal 
+   Violation between Hole To Hole Clearance Constraint: (9mil < 10mil) Between Via (611.099mil,6116.059mil) from L1_Signal to L12_Signal And Via (611.099mil,6134.059mil) from L1_Signal to L12_Signal 
+Rule Violations :4
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+   Violation between Net Antennae: Track (3324.47mil,2040.987mil)(3382.235mil,2040.987mil) on L1_Signal 
+   Violation between Net Antennae: Track (987.943mil,890mil)(1051.457mil,890mil) on L3_Signal 
+   Violation between Net Antennae: Track (987.943mil,890mil)(1051.457mil,890mil) on L3_Signal 
+   Violation between Net Antennae: Via (1680mil,5925mil) from L1_Signal to L12_Signal 
+Rule Violations :4
+
+Processing Rule : Matched Lengths(Tolerance=50mil) (InNetClass('DDR3_DQ[0..16]'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=50mil) (InNetClass('DDR3_A[0..13]')    OR   InNetClass('DDR3_BA'))
+   Violation between Matched Net Lengths: Between Net DDR3_A0 And Net DDR3_A5 Length:2303.483mil is not within 50mil tolerance of Length:2461.871mil (108.388mil short) 
+   Violation between Matched Net Lengths: Between Net DDR3_A4 And Net DDR3_A5 Length:2214.222mil is not within 50mil tolerance of Length:2461.871mil (197.649mil short) 
+   Violation between Matched Net Lengths: Between Net DDR3_A5 And Net DDR3_A6 Length:2294.594mil is not within 50mil tolerance of Length:2461.871mil (117.277mil short) 
+   Violation between Matched Net Lengths: Between Net DDR3_A5 And Net DDR3_BA2 Length:2233.789mil is not within 50mil tolerance of Length:2461.871mil (178.083mil short) 
+Rule Violations :4
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 116
+Waived Violations : 0
+Time Elapsed        : 00:00:03

@@ -1,10 +1,13 @@
-Output: WireList Netlist
-Type  : WireListNetlist
-From  : Project [APP_1_huom2704.PrjPcb]
-   Generated File[APP_1_huom2704.NET]
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [APP_EMILE.PcbDoc]
+   Generated File[APP_EMILE-RoundHoles.TXT]
+   Generated File[APP_EMILE-SlotHoles.TXT]
+   Generated File[APP_EMILE.LDP]
+   Generated File[APP_EMILE.DRR]
 
 
-Files Generated   : 1
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 16:31:54 On 2024-03-11
+Finished Output Generation At 11:18:38 On 2024-03-12
